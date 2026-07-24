@@ -1,0 +1,13 @@
+.DS_Store
+*.asv
+*.m~
+slprj/
+codegen/
+
+# Local analyses and references that are not part of the release.
+/reference_not_for_release/
+/si_not_for_release/
+/deprecated_not_for_release/
+
+# Generated only when an output directory is explicitly requested.
+/figures/

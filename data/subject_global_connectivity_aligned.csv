@@ -1,0 +1,1537 @@
+subject,task,task_display,group,value
+sub-002,memory,Memory,Subcortical,0.20355450991098345
+sub-002,memory,Memory,Visual,0.3169841239921179
+sub-002,memory,Memory,Somato-Motor,0.37684469905612455
+sub-002,memory,Memory,Dorsal Attention,0.37054466403754177
+sub-002,memory,Memory,Salience/Ventral Attention,0.3561167747909301
+sub-002,memory,Memory,Limbic,0.25875819996863264
+sub-002,memory,Memory,Control,0.3410058945927402
+sub-002,memory,Memory,Default,0.2666244885640743
+sub-002,counting,Counting,Subcortical,0.21413666087045877
+sub-002,counting,Counting,Visual,0.3763112695477291
+sub-002,counting,Counting,Somato-Motor,0.3928473748087738
+sub-002,counting,Counting,Dorsal Attention,0.35477786073563083
+sub-002,counting,Counting,Salience/Ventral Attention,0.3736345879173719
+sub-002,counting,Counting,Limbic,0.28944017563929736
+sub-002,counting,Counting,Control,0.3582607842200945
+sub-002,counting,Counting,Default,0.29296859235798123
+sub-002,j1,J1,Subcortical,0.18080717290975706
+sub-002,j1,J1,Visual,0.2270785358317483
+sub-002,j1,J1,Somato-Motor,0.28750095404108805
+sub-002,j1,J1,Dorsal Attention,0.35945006953118985
+sub-002,j1,J1,Salience/Ventral Attention,0.32885526095157336
+sub-002,j1,J1,Limbic,0.24145991195064834
+sub-002,j1,J1,Control,0.3216031047877351
+sub-002,j1,J1,Default,0.34846526373720493
+sub-002,j2,J2,Subcortical,0.1931842861331597
+sub-002,j2,J2,Visual,0.2400119914392093
+sub-002,j2,J2,Somato-Motor,0.3199759720431698
+sub-002,j2,J2,Dorsal Attention,0.3274753414426504
+sub-002,j2,J2,Salience/Ventral Attention,0.2694608523345945
+sub-002,j2,J2,Limbic,0.1947772586354158
+sub-002,j2,J2,Control,0.3244452593110261
+sub-002,j2,J2,Default,0.3136984249064459
+sub-002,j3,J3,Subcortical,0.2579248045010557
+sub-002,j3,J3,Visual,0.37344722595812124
+sub-002,j3,J3,Somato-Motor,0.3661949049830136
+sub-002,j3,J3,Dorsal Attention,0.39615287569736823
+sub-002,j3,J3,Salience/Ventral Attention,0.3161975723226197
+sub-002,j3,J3,Limbic,0.34888943404720507
+sub-002,j3,J3,Control,0.4072004131175094
+sub-002,j3,J3,Default,0.40971409380770135
+sub-002,j4,J4,Subcortical,0.20571666503237807
+sub-002,j4,J4,Visual,0.40125987237365024
+sub-002,j4,J4,Somato-Motor,0.4595858432197013
+sub-002,j4,J4,Dorsal Attention,0.47334989051254694
+sub-002,j4,J4,Salience/Ventral Attention,0.47422545157961266
+sub-002,j4,J4,Limbic,0.37057178713734473
+sub-002,j4,J4,Control,0.43056463582993854
+sub-002,j4,J4,Default,0.35913079356365357
+sub-002,j5,J5,Subcortical,0.3329242031829804
+sub-002,j5,J5,Visual,0.3698008161385558
+sub-002,j5,J5,Somato-Motor,0.5581357846677465
+sub-002,j5,J5,Dorsal Attention,0.5158000712786517
+sub-002,j5,J5,Salience/Ventral Attention,0.5174366496636184
+sub-002,j5,J5,Limbic,0.45483712293964096
+sub-002,j5,J5,Control,0.4731514850147299
+sub-002,j5,J5,Default,0.477590847916828
+sub-002,j6,J6,Subcortical,0.3597666517228841
+sub-002,j6,J6,Visual,0.44538927709415976
+sub-002,j6,J6,Somato-Motor,0.5747126103383146
+sub-002,j6,J6,Dorsal Attention,0.5584853932993201
+sub-002,j6,J6,Salience/Ventral Attention,0.5302536685376757
+sub-002,j6,J6,Limbic,0.3984084273849922
+sub-002,j6,J6,Control,0.49325816548986456
+sub-002,j6,J6,Default,0.3413972014197207
+sub-002,j7,J7,Subcortical,0.368938774189285
+sub-002,j7,J7,Visual,0.42300284333884597
+sub-002,j7,J7,Somato-Motor,0.5595132522338628
+sub-002,j7,J7,Dorsal Attention,0.5101881877796127
+sub-002,j7,J7,Salience/Ventral Attention,0.5347824240918677
+sub-002,j7,J7,Limbic,0.30582683635482105
+sub-002,j7,J7,Control,0.5022955871338581
+sub-002,j7,J7,Default,0.42872528105870494
+sub-002,j8,J8,Subcortical,0.3563972205428038
+sub-002,j8,J8,Visual,0.4423323393321183
+sub-002,j8,J8,Somato-Motor,0.5089131937863749
+sub-002,j8,J8,Dorsal Attention,0.5357464898715378
+sub-002,j8,J8,Salience/Ventral Attention,0.49119353881682737
+sub-002,j8,J8,Limbic,0.3901490856007186
+sub-002,j8,J8,Control,0.4984172827959864
+sub-002,j8,J8,Default,0.43848406134786405
+sub-003,memory,Memory,Subcortical,0.15753266970969196
+sub-003,memory,Memory,Visual,0.2328085249184682
+sub-003,memory,Memory,Somato-Motor,0.2168525941325214
+sub-003,memory,Memory,Dorsal Attention,0.23655011069918008
+sub-003,memory,Memory,Salience/Ventral Attention,0.26755712545479554
+sub-003,memory,Memory,Limbic,0.08977099246360219
+sub-003,memory,Memory,Control,0.22363560330845897
+sub-003,memory,Memory,Default,0.1324155579920718
+sub-003,counting,Counting,Subcortical,0.13070836343650571
+sub-003,counting,Counting,Visual,0.18099948147408554
+sub-003,counting,Counting,Somato-Motor,0.177856079545865
+sub-003,counting,Counting,Dorsal Attention,0.1699405654136255
+sub-003,counting,Counting,Salience/Ventral Attention,0.18421188159898313
+sub-003,counting,Counting,Limbic,0.12337493888950397
+sub-003,counting,Counting,Control,0.16804773059140865
+sub-003,counting,Counting,Default,0.12995565880629892
+sub-003,j1,J1,Subcortical,0.3037105224889185
+sub-003,j1,J1,Visual,0.3758921750173129
+sub-003,j1,J1,Somato-Motor,0.4157693100351076
+sub-003,j1,J1,Dorsal Attention,0.39592886058697374
+sub-003,j1,J1,Salience/Ventral Attention,0.3911867537168533
+sub-003,j1,J1,Limbic,0.30089384258598106
+sub-003,j1,J1,Control,0.33370625418659167
+sub-003,j1,J1,Default,0.2965251600650379
+sub-003,j2,J2,Subcortical,0.042814777784780336
+sub-003,j2,J2,Visual,0.04209647595342216
+sub-003,j2,J2,Somato-Motor,0.17311891988958136
+sub-003,j2,J2,Dorsal Attention,0.13800077886402326
+sub-003,j2,J2,Salience/Ventral Attention,0.10380923977119993
+sub-003,j2,J2,Limbic,0.18334637671685589
+sub-003,j2,J2,Control,0.12306140609075035
+sub-003,j2,J2,Default,0.1638542489401757
+sub-003,j3,J3,Subcortical,0.12492667018241571
+sub-003,j3,J3,Visual,0.06876377132861729
+sub-003,j3,J3,Somato-Motor,0.24323665602526093
+sub-003,j3,J3,Dorsal Attention,0.22960052341519094
+sub-003,j3,J3,Salience/Ventral Attention,0.21701762768274574
+sub-003,j3,J3,Limbic,0.12686780192507038
+sub-003,j3,J3,Control,0.17859797497382776
+sub-003,j3,J3,Default,0.20773291444969763
+sub-003,j4,J4,Subcortical,0.0742098644877758
+sub-003,j4,J4,Visual,0.19729473332618255
+sub-003,j4,J4,Somato-Motor,0.21713724765005415
+sub-003,j4,J4,Dorsal Attention,0.20155130801804808
+sub-003,j4,J4,Salience/Ventral Attention,0.20378540975432066
+sub-003,j4,J4,Limbic,0.07491542151538957
+sub-003,j4,J4,Control,0.07030302569906922
+sub-003,j4,J4,Default,0.06646139191351853
+sub-003,j5,J5,Subcortical,0.14247846300807812
+sub-003,j5,J5,Visual,0.34238933935460475
+sub-003,j5,J5,Somato-Motor,0.2991160414193243
+sub-003,j5,J5,Dorsal Attention,0.31014804288426245
+sub-003,j5,J5,Salience/Ventral Attention,0.3098436513213522
+sub-003,j5,J5,Limbic,0.16700235358676185
+sub-003,j5,J5,Control,0.21213892059962158
+sub-003,j5,J5,Default,0.1710285237252936
+sub-003,j6,J6,Subcortical,0.19227021433832095
+sub-003,j6,J6,Visual,0.2819759392645362
+sub-003,j6,J6,Somato-Motor,0.2725923069502855
+sub-003,j6,J6,Dorsal Attention,0.2500228727236733
+sub-003,j6,J6,Salience/Ventral Attention,0.2848066391008528
+sub-003,j6,J6,Limbic,0.10079094420925568
+sub-003,j6,J6,Control,0.23717642867403238
+sub-003,j6,J6,Default,0.2366912152425666
+sub-003,j7,J7,Subcortical,0.12310449267274926
+sub-003,j7,J7,Visual,0.40718397513067794
+sub-003,j7,J7,Somato-Motor,0.4231758600556101
+sub-003,j7,J7,Dorsal Attention,0.4015446962324803
+sub-003,j7,J7,Salience/Ventral Attention,0.37293445088081795
+sub-003,j7,J7,Limbic,0.2831466610144861
+sub-003,j7,J7,Control,0.3095165742712771
+sub-003,j7,J7,Default,0.2806105558091409
+sub-003,j8,J8,Subcortical,0.1283269031544063
+sub-003,j8,J8,Visual,0.44052325360745254
+sub-003,j8,J8,Somato-Motor,0.40579285683763405
+sub-003,j8,J8,Dorsal Attention,0.408423116162754
+sub-003,j8,J8,Salience/Ventral Attention,0.2898937620998753
+sub-003,j8,J8,Limbic,0.18187070239562023
+sub-003,j8,J8,Control,0.2573050914323282
+sub-003,j8,J8,Default,0.27266036379947767
+sub-004,memory,Memory,Subcortical,0.19386418382803877
+sub-004,memory,Memory,Visual,0.3162222631889556
+sub-004,memory,Memory,Somato-Motor,0.3046242772147538
+sub-004,memory,Memory,Dorsal Attention,0.3130419762147734
+sub-004,memory,Memory,Salience/Ventral Attention,0.3432166468211842
+sub-004,memory,Memory,Limbic,0.19251529993992267
+sub-004,memory,Memory,Control,0.25847163063220174
+sub-004,memory,Memory,Default,0.23945880354160917
+sub-004,counting,Counting,Subcortical,0.1984618080023626
+sub-004,counting,Counting,Visual,0.3750353033901971
+sub-004,counting,Counting,Somato-Motor,0.38083976211929116
+sub-004,counting,Counting,Dorsal Attention,0.3524646093565125
+sub-004,counting,Counting,Salience/Ventral Attention,0.3538859547982918
+sub-004,counting,Counting,Limbic,0.16165679725603763
+sub-004,counting,Counting,Control,0.2895821299491522
+sub-004,counting,Counting,Default,0.2759842313159634
+sub-004,j1,J1,Subcortical,0.30426081503696306
+sub-004,j1,J1,Visual,0.4411392722614227
+sub-004,j1,J1,Somato-Motor,0.41716627705079623
+sub-004,j1,J1,Dorsal Attention,0.40121264957045993
+sub-004,j1,J1,Salience/Ventral Attention,0.4355708152022926
+sub-004,j1,J1,Limbic,0.2554625648710885
+sub-004,j1,J1,Control,0.4091837299646614
+sub-004,j1,J1,Default,0.3891299409695411
+sub-004,j2,J2,Subcortical,0.3531008850596926
+sub-004,j2,J2,Visual,0.3976799896113765
+sub-004,j2,J2,Somato-Motor,0.4780089980787096
+sub-004,j2,J2,Dorsal Attention,0.5175554391235919
+sub-004,j2,J2,Salience/Ventral Attention,0.5091616542403009
+sub-004,j2,J2,Limbic,0.28569067027746636
+sub-004,j2,J2,Control,0.45688562324233944
+sub-004,j2,J2,Default,0.42357169481241785
+sub-004,j3,J3,Subcortical,0.2315171105796848
+sub-004,j3,J3,Visual,0.29077765727299865
+sub-004,j3,J3,Somato-Motor,0.3141136587904273
+sub-004,j3,J3,Dorsal Attention,0.3138161436549803
+sub-004,j3,J3,Salience/Ventral Attention,0.34741962293000844
+sub-004,j3,J3,Limbic,0.19312354519526206
+sub-004,j3,J3,Control,0.2893875548416815
+sub-004,j3,J3,Default,0.286371383768896
+sub-004,j4,J4,Subcortical,0.20550826723145363
+sub-004,j4,J4,Visual,0.3447850509063569
+sub-004,j4,J4,Somato-Motor,0.33239685883411496
+sub-004,j4,J4,Dorsal Attention,0.36440134824580556
+sub-004,j4,J4,Salience/Ventral Attention,0.3590732402979794
+sub-004,j4,J4,Limbic,0.17101563209240453
+sub-004,j4,J4,Control,0.3292853449261377
+sub-004,j4,J4,Default,0.2677029921309069
+sub-004,j5,J5,Subcortical,0.15425406379145576
+sub-004,j5,J5,Visual,0.2560367092368388
+sub-004,j5,J5,Somato-Motor,0.1888162807810949
+sub-004,j5,J5,Dorsal Attention,0.3224923729456023
+sub-004,j5,J5,Salience/Ventral Attention,0.2646893024936693
+sub-004,j5,J5,Limbic,0.11830431354671544
+sub-004,j5,J5,Control,0.27861258799080163
+sub-004,j5,J5,Default,0.226334004158239
+sub-004,j6,J6,Subcortical,0.27474693907963255
+sub-004,j6,J6,Visual,0.2694890243194422
+sub-004,j6,J6,Somato-Motor,0.37084998252982737
+sub-004,j6,J6,Dorsal Attention,0.4181490334124006
+sub-004,j6,J6,Salience/Ventral Attention,0.4230865209655161
+sub-004,j6,J6,Limbic,0.2690906261342974
+sub-004,j6,J6,Control,0.3667679595199064
+sub-004,j6,J6,Default,0.336122162462898
+sub-004,j7,J7,Subcortical,0.29721272962383444
+sub-004,j7,J7,Visual,0.3755693716894104
+sub-004,j7,J7,Somato-Motor,0.3656784806164622
+sub-004,j7,J7,Dorsal Attention,0.4308361898921241
+sub-004,j7,J7,Salience/Ventral Attention,0.3910496391519574
+sub-004,j7,J7,Limbic,0.26351512440194147
+sub-004,j7,J7,Control,0.421796443596132
+sub-004,j7,J7,Default,0.32261561999070143
+sub-004,j8,J8,Subcortical,0.2766564967747151
+sub-004,j8,J8,Visual,0.4114074736352116
+sub-004,j8,J8,Somato-Motor,0.4283238069561297
+sub-004,j8,J8,Dorsal Attention,0.4737906007798457
+sub-004,j8,J8,Salience/Ventral Attention,0.44752738926504015
+sub-004,j8,J8,Limbic,0.19756943374836805
+sub-004,j8,J8,Control,0.393471518627517
+sub-004,j8,J8,Default,0.3310363244016107
+sub-006,memory,Memory,Subcortical,0.33696375237289494
+sub-006,memory,Memory,Visual,0.47393928009895747
+sub-006,memory,Memory,Somato-Motor,0.4893941278340067
+sub-006,memory,Memory,Dorsal Attention,0.4835683682506297
+sub-006,memory,Memory,Salience/Ventral Attention,0.5200566786279802
+sub-006,memory,Memory,Limbic,0.3318498841710037
+sub-006,memory,Memory,Control,0.4842989177964103
+sub-006,memory,Memory,Default,0.44794332766603384
+sub-006,counting,Counting,Subcortical,0.37500746786224426
+sub-006,counting,Counting,Visual,0.653427989689406
+sub-006,counting,Counting,Somato-Motor,0.6534538876520548
+sub-006,counting,Counting,Dorsal Attention,0.652516838301982
+sub-006,counting,Counting,Salience/Ventral Attention,0.6278359436369557
+sub-006,counting,Counting,Limbic,0.43921975854468465
+sub-006,counting,Counting,Control,0.6312920069775725
+sub-006,counting,Counting,Default,0.608920762743229
+sub-006,j1,J1,Subcortical,0.41362948439625313
+sub-006,j1,J1,Visual,0.6015737428927208
+sub-006,j1,J1,Somato-Motor,0.6482252156487037
+sub-006,j1,J1,Dorsal Attention,0.6292222976439394
+sub-006,j1,J1,Salience/Ventral Attention,0.6154614215872429
+sub-006,j1,J1,Limbic,0.39651890363643977
+sub-006,j1,J1,Control,0.6456457541431365
+sub-006,j1,J1,Default,0.5630209828276397
+sub-006,j2,J2,Subcortical,0.3276569030787247
+sub-006,j2,J2,Visual,0.4687237566138476
+sub-006,j2,J2,Somato-Motor,0.5201850774989375
+sub-006,j2,J2,Dorsal Attention,0.5071342262662657
+sub-006,j2,J2,Salience/Ventral Attention,0.5164961672784966
+sub-006,j2,J2,Limbic,0.3144798509019707
+sub-006,j2,J2,Control,0.5152172985199716
+sub-006,j2,J2,Default,0.4451387281119475
+sub-006,j3,J3,Subcortical,0.2031083948168223
+sub-006,j3,J3,Visual,0.3860768948940872
+sub-006,j3,J3,Somato-Motor,0.43476210847857505
+sub-006,j3,J3,Dorsal Attention,0.4327714109264358
+sub-006,j3,J3,Salience/Ventral Attention,0.44335137319407475
+sub-006,j3,J3,Limbic,0.22702085320700444
+sub-006,j3,J3,Control,0.433734019555618
+sub-006,j3,J3,Default,0.38647959156615586
+sub-006,j4,J4,Subcortical,0.2691630161164897
+sub-006,j4,J4,Visual,0.463261335734626
+sub-006,j4,J4,Somato-Motor,0.335172669445884
+sub-006,j4,J4,Dorsal Attention,0.3300723497688372
+sub-006,j4,J4,Salience/Ventral Attention,0.33332931524600884
+sub-006,j4,J4,Limbic,0.27344726954599763
+sub-006,j4,J4,Control,0.4446456790839685
+sub-006,j4,J4,Default,0.43309602378038203
+sub-006,j5,J5,Subcortical,0.14826686847086348
+sub-006,j5,J5,Visual,0.4030558265026427
+sub-006,j5,J5,Somato-Motor,0.358396067770906
+sub-006,j5,J5,Dorsal Attention,0.41109038330525405
+sub-006,j5,J5,Salience/Ventral Attention,0.3540382497413342
+sub-006,j5,J5,Limbic,0.1899132628177665
+sub-006,j5,J5,Control,0.4160027010301748
+sub-006,j5,J5,Default,0.3604765177653265
+sub-006,j6,J6,Subcortical,0.2788504704143044
+sub-006,j6,J6,Visual,0.46802338112508496
+sub-006,j6,J6,Somato-Motor,0.4345966740548969
+sub-006,j6,J6,Dorsal Attention,0.5081557033830997
+sub-006,j6,J6,Salience/Ventral Attention,0.44371575348977177
+sub-006,j6,J6,Limbic,0.3897724991540062
+sub-006,j6,J6,Control,0.5251200739437804
+sub-006,j6,J6,Default,0.4734436179345524
+sub-006,j7,J7,Subcortical,0.3012639911116621
+sub-006,j7,J7,Visual,0.4509814990992095
+sub-006,j7,J7,Somato-Motor,0.5269659752085771
+sub-006,j7,J7,Dorsal Attention,0.5340662848935613
+sub-006,j7,J7,Salience/Ventral Attention,0.5161377597106969
+sub-006,j7,J7,Limbic,0.40014443760395296
+sub-006,j7,J7,Control,0.5259313036845057
+sub-006,j7,J7,Default,0.49675245893987574
+sub-006,j8,J8,Subcortical,0.3170227574372194
+sub-006,j8,J8,Visual,0.45694758425143434
+sub-006,j8,J8,Somato-Motor,0.45761796891870077
+sub-006,j8,J8,Dorsal Attention,0.45741949485792877
+sub-006,j8,J8,Salience/Ventral Attention,0.4524035887841397
+sub-006,j8,J8,Limbic,0.218370312976696
+sub-006,j8,J8,Control,0.4954064959837836
+sub-006,j8,J8,Default,0.45284397939891036
+sub-007,memory,Memory,Subcortical,0.11530236566232815
+sub-007,memory,Memory,Visual,0.20480955121933825
+sub-007,memory,Memory,Somato-Motor,0.19769714582274484
+sub-007,memory,Memory,Dorsal Attention,0.20843886365881945
+sub-007,memory,Memory,Salience/Ventral Attention,0.220300958111818
+sub-007,memory,Memory,Limbic,0.13373603623902058
+sub-007,memory,Memory,Control,0.19146634867791673
+sub-007,memory,Memory,Default,0.14176994674946602
+sub-007,counting,Counting,Subcortical,0.0959256746040499
+sub-007,counting,Counting,Visual,0.15841014017609265
+sub-007,counting,Counting,Somato-Motor,0.16313866371248548
+sub-007,counting,Counting,Dorsal Attention,0.18413166872318598
+sub-007,counting,Counting,Salience/Ventral Attention,0.17193317080565804
+sub-007,counting,Counting,Limbic,0.13441708792889373
+sub-007,counting,Counting,Control,0.1544464150470472
+sub-007,counting,Counting,Default,0.11978383467808822
+sub-007,j1,J1,Subcortical,0.31901328668724555
+sub-007,j1,J1,Visual,0.43123165747092357
+sub-007,j1,J1,Somato-Motor,0.5250792316648797
+sub-007,j1,J1,Dorsal Attention,0.5164592717575232
+sub-007,j1,J1,Salience/Ventral Attention,0.5182923631813708
+sub-007,j1,J1,Limbic,0.5335921364842664
+sub-007,j1,J1,Control,0.4478922106873158
+sub-007,j1,J1,Default,0.3949721833347352
+sub-007,j2,J2,Subcortical,0.18857151205646397
+sub-007,j2,J2,Visual,0.15329320279214462
+sub-007,j2,J2,Somato-Motor,0.1679192567263885
+sub-007,j2,J2,Dorsal Attention,0.16525334130340058
+sub-007,j2,J2,Salience/Ventral Attention,0.17511699019413215
+sub-007,j2,J2,Limbic,0.22798453415825642
+sub-007,j2,J2,Control,0.2189855218033925
+sub-007,j2,J2,Default,0.20124252812011237
+sub-007,j3,J3,Subcortical,0.16428734876839016
+sub-007,j3,J3,Visual,0.25008316853080087
+sub-007,j3,J3,Somato-Motor,0.28150067657058375
+sub-007,j3,J3,Dorsal Attention,0.28464738422049135
+sub-007,j3,J3,Salience/Ventral Attention,0.26204721605690334
+sub-007,j3,J3,Limbic,0.2094964895031338
+sub-007,j3,J3,Control,0.2420050971231216
+sub-007,j3,J3,Default,0.2613093078611309
+sub-007,j4,J4,Subcortical,0.1164184121387092
+sub-007,j4,J4,Visual,0.2371888237628813
+sub-007,j4,J4,Somato-Motor,0.13733903879882303
+sub-007,j4,J4,Dorsal Attention,0.22178537852860955
+sub-007,j4,J4,Salience/Ventral Attention,0.1725733714385338
+sub-007,j4,J4,Limbic,0.10458352059260909
+sub-007,j4,J4,Control,0.07481961451134178
+sub-007,j4,J4,Default,0.05163869058414197
+sub-007,j5,J5,Subcortical,0.08052610722456904
+sub-007,j5,J5,Visual,0.11203606928376596
+sub-007,j5,J5,Somato-Motor,0.07194221085596512
+sub-007,j5,J5,Dorsal Attention,0.10327661396935044
+sub-007,j5,J5,Salience/Ventral Attention,0.1661282924395796
+sub-007,j5,J5,Limbic,0.13465570351197587
+sub-007,j5,J5,Control,0.10871399385075925
+sub-007,j5,J5,Default,0.03709005473316425
+sub-007,j6,J6,Subcortical,0.24752229316199995
+sub-007,j6,J6,Visual,0.4184213824017143
+sub-007,j6,J6,Somato-Motor,0.46904472530165536
+sub-007,j6,J6,Dorsal Attention,0.3708917246042522
+sub-007,j6,J6,Salience/Ventral Attention,0.3696571497537338
+sub-007,j6,J6,Limbic,0.20924450595466912
+sub-007,j6,J6,Control,0.09802368125325814
+sub-007,j6,J6,Default,0.15445808754685186
+sub-007,j7,J7,Subcortical,0.2032586361194379
+sub-007,j7,J7,Visual,0.353839192330678
+sub-007,j7,J7,Somato-Motor,0.4118502468070898
+sub-007,j7,J7,Dorsal Attention,0.3691189661856065
+sub-007,j7,J7,Salience/Ventral Attention,0.40620031434253195
+sub-007,j7,J7,Limbic,0.20101379481763704
+sub-007,j7,J7,Control,0.2166466992110659
+sub-007,j7,J7,Default,0.21521903878790236
+sub-007,j8,J8,Subcortical,0.1464502428730835
+sub-007,j8,J8,Visual,0.21770367540992622
+sub-007,j8,J8,Somato-Motor,0.21198481980492154
+sub-007,j8,J8,Dorsal Attention,0.2344553193202329
+sub-007,j8,J8,Salience/Ventral Attention,0.24984573311560015
+sub-007,j8,J8,Limbic,0.10941743601214493
+sub-007,j8,J8,Control,0.253436123649244
+sub-007,j8,J8,Default,0.2018032026419962
+sub-008,memory,Memory,Subcortical,0.2779132664256898
+sub-008,memory,Memory,Visual,0.42617706628925506
+sub-008,memory,Memory,Somato-Motor,0.4156549762806083
+sub-008,memory,Memory,Dorsal Attention,0.3740449183409446
+sub-008,memory,Memory,Salience/Ventral Attention,0.343402825830094
+sub-008,memory,Memory,Limbic,0.2324547698307382
+sub-008,memory,Memory,Control,0.2594385512757038
+sub-008,memory,Memory,Default,0.31893788428919584
+sub-008,counting,Counting,Subcortical,0.20490501236110226
+sub-008,counting,Counting,Visual,0.34178787919921927
+sub-008,counting,Counting,Somato-Motor,0.32809854110834646
+sub-008,counting,Counting,Dorsal Attention,0.3153535030913392
+sub-008,counting,Counting,Salience/Ventral Attention,0.2870222902240524
+sub-008,counting,Counting,Limbic,0.21079266056103588
+sub-008,counting,Counting,Control,0.27143165707289657
+sub-008,counting,Counting,Default,0.25215676685391153
+sub-008,j1,J1,Subcortical,0.3500244956677398
+sub-008,j1,J1,Visual,0.5746403120861239
+sub-008,j1,J1,Somato-Motor,0.5341818214560718
+sub-008,j1,J1,Dorsal Attention,0.5263136186124956
+sub-008,j1,J1,Salience/Ventral Attention,0.4885987034145854
+sub-008,j1,J1,Limbic,0.25390339375375404
+sub-008,j1,J1,Control,0.456730788393243
+sub-008,j1,J1,Default,0.34578069865666167
+sub-008,j2,J2,Subcortical,0.4492779554188082
+sub-008,j2,J2,Visual,0.6693128380618005
+sub-008,j2,J2,Somato-Motor,0.6808199757693499
+sub-008,j2,J2,Dorsal Attention,0.6147473894267245
+sub-008,j2,J2,Salience/Ventral Attention,0.6507975689953871
+sub-008,j2,J2,Limbic,0.5486908370475079
+sub-008,j2,J2,Control,0.5971635205255217
+sub-008,j2,J2,Default,0.5436652048880518
+sub-008,j3,J3,Subcortical,0.2522883667300719
+sub-008,j3,J3,Visual,0.3997809585769718
+sub-008,j3,J3,Somato-Motor,0.402940404522974
+sub-008,j3,J3,Dorsal Attention,0.2834097936793936
+sub-008,j3,J3,Salience/Ventral Attention,0.3438142405139315
+sub-008,j3,J3,Limbic,0.3526031178171353
+sub-008,j3,J3,Control,0.22934608785966018
+sub-008,j3,J3,Default,0.2390914727102812
+sub-008,j4,J4,Subcortical,0.15626566278415574
+sub-008,j4,J4,Visual,0.29592744973872026
+sub-008,j4,J4,Somato-Motor,0.2508959578524541
+sub-008,j4,J4,Dorsal Attention,0.24200074769736252
+sub-008,j4,J4,Salience/Ventral Attention,0.21335431145941433
+sub-008,j4,J4,Limbic,0.15340862622719736
+sub-008,j4,J4,Control,0.21300789831553696
+sub-008,j4,J4,Default,0.2446921498452153
+sub-008,j5,J5,Subcortical,0.3774037912067744
+sub-008,j5,J5,Visual,0.5564967299051529
+sub-008,j5,J5,Somato-Motor,0.5703598688226004
+sub-008,j5,J5,Dorsal Attention,0.4073572932160156
+sub-008,j5,J5,Salience/Ventral Attention,0.4176211561362411
+sub-008,j5,J5,Limbic,0.4259689279255235
+sub-008,j5,J5,Control,0.3805670729843603
+sub-008,j5,J5,Default,0.503030082638148
+sub-008,j6,J6,Subcortical,0.24517640446798025
+sub-008,j6,J6,Visual,0.38657470549500766
+sub-008,j6,J6,Somato-Motor,0.4134445426765788
+sub-008,j6,J6,Dorsal Attention,0.413678713228144
+sub-008,j6,J6,Salience/Ventral Attention,0.37720619604638816
+sub-008,j6,J6,Limbic,0.2421347848787154
+sub-008,j6,J6,Control,0.3805572483988843
+sub-008,j6,J6,Default,0.3870744783564207
+sub-008,j7,J7,Subcortical,0.3270553164270351
+sub-008,j7,J7,Visual,0.4958574251032834
+sub-008,j7,J7,Somato-Motor,0.5121591659898557
+sub-008,j7,J7,Dorsal Attention,0.49658358317117557
+sub-008,j7,J7,Salience/Ventral Attention,0.4804360838071144
+sub-008,j7,J7,Limbic,0.33719882959189323
+sub-008,j7,J7,Control,0.40827848480378115
+sub-008,j7,J7,Default,0.367858335839334
+sub-008,j8,J8,Subcortical,0.24473598422755088
+sub-008,j8,J8,Visual,0.4206812643089496
+sub-008,j8,J8,Somato-Motor,0.40940744278480135
+sub-008,j8,J8,Dorsal Attention,0.38585094871095205
+sub-008,j8,J8,Salience/Ventral Attention,0.37094449851430084
+sub-008,j8,J8,Limbic,0.17828621156623492
+sub-008,j8,J8,Control,0.35557240731814155
+sub-008,j8,J8,Default,0.33061924490205
+sub-010,memory,Memory,Subcortical,0.2644849954612034
+sub-010,memory,Memory,Visual,0.5686489276575281
+sub-010,memory,Memory,Somato-Motor,0.6263807352059391
+sub-010,memory,Memory,Dorsal Attention,0.6276411592631653
+sub-010,memory,Memory,Salience/Ventral Attention,0.5968378410488422
+sub-010,memory,Memory,Limbic,0.38172908415507206
+sub-010,memory,Memory,Control,0.5134655109513155
+sub-010,memory,Memory,Default,0.5580404791726106
+sub-010,counting,Counting,Subcortical,0.2527667534685862
+sub-010,counting,Counting,Visual,0.6106766831824553
+sub-010,counting,Counting,Somato-Motor,0.6619177719392745
+sub-010,counting,Counting,Dorsal Attention,0.6284613273529688
+sub-010,counting,Counting,Salience/Ventral Attention,0.5731968116530332
+sub-010,counting,Counting,Limbic,0.4307972049479647
+sub-010,counting,Counting,Control,0.4661192790520812
+sub-010,counting,Counting,Default,0.5227461029984469
+sub-010,j1,J1,Subcortical,0.24396062348716102
+sub-010,j1,J1,Visual,0.5509566520540553
+sub-010,j1,J1,Somato-Motor,0.5460207585576701
+sub-010,j1,J1,Dorsal Attention,0.5534662848035393
+sub-010,j1,J1,Salience/Ventral Attention,0.4988048223458598
+sub-010,j1,J1,Limbic,0.4183022583855464
+sub-010,j1,J1,Control,0.45876543426570887
+sub-010,j1,J1,Default,0.41932499216404745
+sub-010,j2,J2,Subcortical,0.18117952693173905
+sub-010,j2,J2,Visual,0.5346843782475409
+sub-010,j2,J2,Somato-Motor,0.5718072429006471
+sub-010,j2,J2,Dorsal Attention,0.541846973496387
+sub-010,j2,J2,Salience/Ventral Attention,0.46219272926443106
+sub-010,j2,J2,Limbic,0.42916039192239064
+sub-010,j2,J2,Control,0.27814064451202125
+sub-010,j2,J2,Default,0.39373444319804796
+sub-010,j3,J3,Subcortical,0.17415764349882837
+sub-010,j3,J3,Visual,0.5820442917093333
+sub-010,j3,J3,Somato-Motor,0.6226464858326234
+sub-010,j3,J3,Dorsal Attention,0.6153674088692438
+sub-010,j3,J3,Salience/Ventral Attention,0.5822035567933336
+sub-010,j3,J3,Limbic,0.49401193939928606
+sub-010,j3,J3,Control,0.39118275952228687
+sub-010,j3,J3,Default,0.5290748165127444
+sub-010,j4,J4,Subcortical,0.27907853056766835
+sub-010,j4,J4,Visual,0.6697573198243768
+sub-010,j4,J4,Somato-Motor,0.7004096880492807
+sub-010,j4,J4,Dorsal Attention,0.6968723824974782
+sub-010,j4,J4,Salience/Ventral Attention,0.6685980913495863
+sub-010,j4,J4,Limbic,0.5571576787518954
+sub-010,j4,J4,Control,0.42930990200057967
+sub-010,j4,J4,Default,0.5708451928933815
+sub-010,j5,J5,Subcortical,0.25204445887744
+sub-010,j5,J5,Visual,0.6038755977989014
+sub-010,j5,J5,Somato-Motor,0.6474380669195755
+sub-010,j5,J5,Dorsal Attention,0.6131287181261335
+sub-010,j5,J5,Salience/Ventral Attention,0.5782511120148411
+sub-010,j5,J5,Limbic,0.5167991215403221
+sub-010,j5,J5,Control,0.49820264923723334
+sub-010,j5,J5,Default,0.5547668130195501
+sub-010,j6,J6,Subcortical,0.21833947387537353
+sub-010,j6,J6,Visual,0.6281246423329002
+sub-010,j6,J6,Somato-Motor,0.6469667080478886
+sub-010,j6,J6,Dorsal Attention,0.6113183217845394
+sub-010,j6,J6,Salience/Ventral Attention,0.5907052666476393
+sub-010,j6,J6,Limbic,0.5150697606537485
+sub-010,j6,J6,Control,0.39656157928420777
+sub-010,j6,J6,Default,0.5353598842588778
+sub-012,memory,Memory,Subcortical,0.22643819536020626
+sub-012,memory,Memory,Visual,0.4142195141872874
+sub-012,memory,Memory,Somato-Motor,0.4919541543436091
+sub-012,memory,Memory,Dorsal Attention,0.44310996718838297
+sub-012,memory,Memory,Salience/Ventral Attention,0.45140118290385584
+sub-012,memory,Memory,Limbic,0.32397431839673707
+sub-012,memory,Memory,Control,0.41861068647741984
+sub-012,memory,Memory,Default,0.40224284136507876
+sub-012,counting,Counting,Subcortical,0.4257443078549341
+sub-012,counting,Counting,Visual,0.6334425193319171
+sub-012,counting,Counting,Somato-Motor,0.6967901445875998
+sub-012,counting,Counting,Dorsal Attention,0.6885180913527348
+sub-012,counting,Counting,Salience/Ventral Attention,0.6820985971410942
+sub-012,counting,Counting,Limbic,0.5299566468136344
+sub-012,counting,Counting,Control,0.669868256569724
+sub-012,counting,Counting,Default,0.6061323239933839
+sub-012,j1,J1,Subcortical,0.18609183248168798
+sub-012,j1,J1,Visual,0.3794149083810844
+sub-012,j1,J1,Somato-Motor,0.3794394231550365
+sub-012,j1,J1,Dorsal Attention,0.05752468734992335
+sub-012,j1,J1,Salience/Ventral Attention,0.2794254619232313
+sub-012,j1,J1,Limbic,0.24079765410497603
+sub-012,j1,J1,Control,0.03877303980977047
+sub-012,j1,J1,Default,0.32973314286917355
+sub-012,j2,J2,Subcortical,0.4645022865420828
+sub-012,j2,J2,Visual,0.6132184615217741
+sub-012,j2,J2,Somato-Motor,0.7108628542785578
+sub-012,j2,J2,Dorsal Attention,0.6258733070613117
+sub-012,j2,J2,Salience/Ventral Attention,0.697814138133074
+sub-012,j2,J2,Limbic,0.5092774322272569
+sub-012,j2,J2,Control,0.6690351064279381
+sub-012,j2,J2,Default,0.6290005848205654
+sub-012,j3,J3,Subcortical,0.14375840277980148
+sub-012,j3,J3,Visual,0.20773998048799094
+sub-012,j3,J3,Somato-Motor,0.31636562953053343
+sub-012,j3,J3,Dorsal Attention,0.31631243874136933
+sub-012,j3,J3,Salience/Ventral Attention,0.2875916615125507
+sub-012,j3,J3,Limbic,0.1543864129632493
+sub-012,j3,J3,Control,0.2965736468658492
+sub-012,j3,J3,Default,0.21967850910277406
+sub-012,j4,J4,Subcortical,0.2034903927896412
+sub-012,j4,J4,Visual,0.3513886404652004
+sub-012,j4,J4,Somato-Motor,0.3719174535209698
+sub-012,j4,J4,Dorsal Attention,0.3704461796345353
+sub-012,j4,J4,Salience/Ventral Attention,0.37204777285107504
+sub-012,j4,J4,Limbic,0.22350205258136824
+sub-012,j4,J4,Control,0.36480635673257705
+sub-012,j4,J4,Default,0.3298036308426064
+sub-012,j5,J5,Subcortical,0.21692220499848608
+sub-012,j5,J5,Visual,0.35855888991088125
+sub-012,j5,J5,Somato-Motor,0.37167733026852695
+sub-012,j5,J5,Dorsal Attention,0.3499919599966122
+sub-012,j5,J5,Salience/Ventral Attention,0.3229367747068254
+sub-012,j5,J5,Limbic,0.18321442937695817
+sub-012,j5,J5,Control,0.3451466020605306
+sub-012,j5,J5,Default,0.34666096602879615
+sub-012,j6,J6,Subcortical,0.09121975110288864
+sub-012,j6,J6,Visual,0.19376301501034385
+sub-012,j6,J6,Somato-Motor,0.2075699912453552
+sub-012,j6,J6,Dorsal Attention,0.17871666149777882
+sub-012,j6,J6,Salience/Ventral Attention,0.17947391450827235
+sub-012,j6,J6,Limbic,0.09467442084548038
+sub-012,j6,J6,Control,0.15228484250577617
+sub-012,j6,J6,Default,0.11816251177110451
+sub-012,j7,J7,Subcortical,0.46230599230383196
+sub-012,j7,J7,Visual,0.5721919585494276
+sub-012,j7,J7,Somato-Motor,0.6484251835662285
+sub-012,j7,J7,Dorsal Attention,0.6394108852534189
+sub-012,j7,J7,Salience/Ventral Attention,0.6307673120328173
+sub-012,j7,J7,Limbic,0.44596634441646826
+sub-012,j7,J7,Control,0.6321564576614854
+sub-012,j7,J7,Default,0.5915943595016647
+sub-012,j8,J8,Subcortical,0.23790963236224424
+sub-012,j8,J8,Visual,0.39249154134755987
+sub-012,j8,J8,Somato-Motor,0.48182930322818884
+sub-012,j8,J8,Dorsal Attention,0.5150343589995022
+sub-012,j8,J8,Salience/Ventral Attention,0.48601943784721435
+sub-012,j8,J8,Limbic,0.3865207519650805
+sub-012,j8,J8,Control,0.51100171387933
+sub-012,j8,J8,Default,0.4114400892982271
+sub-014,memory,Memory,Subcortical,0.4794333284409371
+sub-014,memory,Memory,Visual,0.5633287401869894
+sub-014,memory,Memory,Somato-Motor,0.6290203437527702
+sub-014,memory,Memory,Dorsal Attention,0.589121137928324
+sub-014,memory,Memory,Salience/Ventral Attention,0.6164102184178224
+sub-014,memory,Memory,Limbic,0.5226650520970159
+sub-014,memory,Memory,Control,0.5984547748286979
+sub-014,memory,Memory,Default,0.5953685900979
+sub-014,counting,Counting,Subcortical,0.40833283476327914
+sub-014,counting,Counting,Visual,0.475719699712202
+sub-014,counting,Counting,Somato-Motor,0.5718084050644393
+sub-014,counting,Counting,Dorsal Attention,0.5478429480943585
+sub-014,counting,Counting,Salience/Ventral Attention,0.5741251767938578
+sub-014,counting,Counting,Limbic,0.4478409141281032
+sub-014,counting,Counting,Control,0.4880944943443081
+sub-014,counting,Counting,Default,0.4737194710746966
+sub-014,j1,J1,Subcortical,0.4661557820775041
+sub-014,j1,J1,Visual,0.5524579801905333
+sub-014,j1,J1,Somato-Motor,0.6129367808025402
+sub-014,j1,J1,Dorsal Attention,0.6375527443202214
+sub-014,j1,J1,Salience/Ventral Attention,0.6351101148802699
+sub-014,j1,J1,Limbic,0.5009481120769135
+sub-014,j1,J1,Control,0.604303923734748
+sub-014,j1,J1,Default,0.5273020534007756
+sub-014,j2,J2,Subcortical,0.5399411848799202
+sub-014,j2,J2,Visual,0.6743843540153068
+sub-014,j2,J2,Somato-Motor,0.6817317274895225
+sub-014,j2,J2,Dorsal Attention,0.6704032650728055
+sub-014,j2,J2,Salience/Ventral Attention,0.6909905986557288
+sub-014,j2,J2,Limbic,0.5007685735919782
+sub-014,j2,J2,Control,0.6582174415726982
+sub-014,j2,J2,Default,0.6217378630433197
+sub-014,j3,J3,Subcortical,0.4672334222697394
+sub-014,j3,J3,Visual,0.5420181708591593
+sub-014,j3,J3,Somato-Motor,0.5797872059553334
+sub-014,j3,J3,Dorsal Attention,0.5445692227250011
+sub-014,j3,J3,Salience/Ventral Attention,0.553274897741246
+sub-014,j3,J3,Limbic,0.44529934297323065
+sub-014,j3,J3,Control,0.5119605136394212
+sub-014,j3,J3,Default,0.5079474074887591
+sub-014,j4,J4,Subcortical,0.5386393262688242
+sub-014,j4,J4,Visual,0.6218049554543243
+sub-014,j4,J4,Somato-Motor,0.6383320925499673
+sub-014,j4,J4,Dorsal Attention,0.6518208877245252
+sub-014,j4,J4,Salience/Ventral Attention,0.6623979275989594
+sub-014,j4,J4,Limbic,0.5555268850701702
+sub-014,j4,J4,Control,0.6370306352674476
+sub-014,j4,J4,Default,0.6350197355435738
+sub-014,j5,J5,Subcortical,0.5349852535591497
+sub-014,j5,J5,Visual,0.6065179205773065
+sub-014,j5,J5,Somato-Motor,0.6897104896311699
+sub-014,j5,J5,Dorsal Attention,0.644415689223979
+sub-014,j5,J5,Salience/Ventral Attention,0.6860895525856998
+sub-014,j5,J5,Limbic,0.469862864137128
+sub-014,j5,J5,Control,0.6132828345042166
+sub-014,j5,J5,Default,0.622308071469383
+sub-014,j6,J6,Subcortical,0.3969141938316553
+sub-014,j6,J6,Visual,0.5252885677361574
+sub-014,j6,J6,Somato-Motor,0.5568507635790743
+sub-014,j6,J6,Dorsal Attention,0.5732742838453465
+sub-014,j6,J6,Salience/Ventral Attention,0.5722553988295906
+sub-014,j6,J6,Limbic,0.3560809027198859
+sub-014,j6,J6,Control,0.5182971493686251
+sub-014,j6,J6,Default,0.5124276392223037
+sub-014,j7,J7,Subcortical,0.5508728844860337
+sub-014,j7,J7,Visual,0.6723853862244894
+sub-014,j7,J7,Somato-Motor,0.6887595061664205
+sub-014,j7,J7,Dorsal Attention,0.6949110102635689
+sub-014,j7,J7,Salience/Ventral Attention,0.699362539076935
+sub-014,j7,J7,Limbic,0.5095779231383264
+sub-014,j7,J7,Control,0.6336563382470661
+sub-014,j7,J7,Default,0.6404269505018647
+sub-014,j8,J8,Subcortical,0.5133776544659873
+sub-014,j8,J8,Visual,0.6808115920797181
+sub-014,j8,J8,Somato-Motor,0.6639033464287628
+sub-014,j8,J8,Dorsal Attention,0.6567692052478389
+sub-014,j8,J8,Salience/Ventral Attention,0.6801914484211631
+sub-014,j8,J8,Limbic,0.490187148258201
+sub-014,j8,J8,Control,0.6227136464135236
+sub-014,j8,J8,Default,0.6593995182985017
+sub-016,memory,Memory,Subcortical,0.1317923921145509
+sub-016,memory,Memory,Visual,0.2258908085948258
+sub-016,memory,Memory,Somato-Motor,0.2394934365970929
+sub-016,memory,Memory,Dorsal Attention,0.27851820460604787
+sub-016,memory,Memory,Salience/Ventral Attention,0.2239783438023463
+sub-016,memory,Memory,Limbic,0.08788043575247113
+sub-016,memory,Memory,Control,0.19234943475580454
+sub-016,memory,Memory,Default,0.17045373066916678
+sub-016,counting,Counting,Subcortical,0.17310872422963872
+sub-016,counting,Counting,Visual,0.41265677981469395
+sub-016,counting,Counting,Somato-Motor,0.44958689957963405
+sub-016,counting,Counting,Dorsal Attention,0.43707681834918827
+sub-016,counting,Counting,Salience/Ventral Attention,0.3784294846147656
+sub-016,counting,Counting,Limbic,0.16831230289891824
+sub-016,counting,Counting,Control,0.3011063527127084
+sub-016,counting,Counting,Default,0.3172393742941871
+sub-016,j1,J1,Subcortical,0.17142678937985575
+sub-016,j1,J1,Visual,0.3282778279918538
+sub-016,j1,J1,Somato-Motor,0.32470822039027253
+sub-016,j1,J1,Dorsal Attention,0.3797202435990384
+sub-016,j1,J1,Salience/Ventral Attention,0.3849237365038638
+sub-016,j1,J1,Limbic,0.29232211091424853
+sub-016,j1,J1,Control,0.36997862127261416
+sub-016,j1,J1,Default,0.31301029960125004
+sub-016,j2,J2,Subcortical,0.10089490104226383
+sub-016,j2,J2,Visual,0.2444182782626371
+sub-016,j2,J2,Somato-Motor,0.22389093479449312
+sub-016,j2,J2,Dorsal Attention,0.2842835276142644
+sub-016,j2,J2,Salience/Ventral Attention,0.20627562055479798
+sub-016,j2,J2,Limbic,0.10168914365180674
+sub-016,j2,J2,Control,0.1825419383237937
+sub-016,j2,J2,Default,0.18473802328932334
+sub-016,j3,J3,Subcortical,0.2566279111146944
+sub-016,j3,J3,Visual,0.45344004757744705
+sub-016,j3,J3,Somato-Motor,0.4672075509399874
+sub-016,j3,J3,Dorsal Attention,0.4582316811643065
+sub-016,j3,J3,Salience/Ventral Attention,0.45493736785592065
+sub-016,j3,J3,Limbic,0.3279382159345454
+sub-016,j3,J3,Control,0.43797126618549886
+sub-016,j3,J3,Default,0.39804984681692707
+sub-016,j4,J4,Subcortical,0.17278143244349173
+sub-016,j4,J4,Visual,0.32153221651362046
+sub-016,j4,J4,Somato-Motor,0.3153699016567134
+sub-016,j4,J4,Dorsal Attention,0.3460066811525317
+sub-016,j4,J4,Salience/Ventral Attention,0.2592091797003616
+sub-016,j4,J4,Limbic,0.23896492061709254
+sub-016,j4,J4,Control,0.3293862185102005
+sub-016,j4,J4,Default,0.25515892029242393
+sub-016,j5,J5,Subcortical,0.03927128844055162
+sub-016,j5,J5,Visual,0.14654470344577464
+sub-016,j5,J5,Somato-Motor,0.23493257792016561
+sub-016,j5,J5,Dorsal Attention,0.17515140448905328
+sub-016,j5,J5,Salience/Ventral Attention,0.24209442791797547
+sub-016,j5,J5,Limbic,0.13508105575861296
+sub-016,j5,J5,Control,0.12975780002388992
+sub-016,j5,J5,Default,0.1608004827994563
+sub-016,j6,J6,Subcortical,0.3162014645200048
+sub-016,j6,J6,Visual,0.5334562882735018
+sub-016,j6,J6,Somato-Motor,0.5425617038075001
+sub-016,j6,J6,Dorsal Attention,0.558054643912613
+sub-016,j6,J6,Salience/Ventral Attention,0.5405532208560817
+sub-016,j6,J6,Limbic,0.39716861274255505
+sub-016,j6,J6,Control,0.5490368115746583
+sub-016,j6,J6,Default,0.5139447958890012
+sub-016,j7,J7,Subcortical,0.12214510793953326
+sub-016,j7,J7,Visual,0.2544951459186844
+sub-016,j7,J7,Somato-Motor,0.32028549627900355
+sub-016,j7,J7,Dorsal Attention,0.3470750831922991
+sub-016,j7,J7,Salience/Ventral Attention,0.3443622593929685
+sub-016,j7,J7,Limbic,0.15522471825006812
+sub-016,j7,J7,Control,0.3305012634226854
+sub-016,j7,J7,Default,0.254968877971296
+sub-016,j8,J8,Subcortical,0.10458755972864728
+sub-016,j8,J8,Visual,0.33035666219385046
+sub-016,j8,J8,Somato-Motor,0.34148444371028475
+sub-016,j8,J8,Dorsal Attention,0.41486936946205477
+sub-016,j8,J8,Salience/Ventral Attention,0.33864899335684323
+sub-016,j8,J8,Limbic,0.20925264420663073
+sub-016,j8,J8,Control,0.3559281204263704
+sub-016,j8,J8,Default,0.3159311536613145
+sub-017,memory,Memory,Subcortical,0.2969304829731209
+sub-017,memory,Memory,Visual,0.36577016055149647
+sub-017,memory,Memory,Somato-Motor,0.44483024341456906
+sub-017,memory,Memory,Dorsal Attention,0.45943082537991453
+sub-017,memory,Memory,Salience/Ventral Attention,0.43648223536412994
+sub-017,memory,Memory,Limbic,0.33482539950533263
+sub-017,memory,Memory,Control,0.3725532393842507
+sub-017,memory,Memory,Default,0.34314750962870033
+sub-017,counting,Counting,Subcortical,0.24740739721026633
+sub-017,counting,Counting,Visual,0.3231650562767231
+sub-017,counting,Counting,Somato-Motor,0.3870287889332618
+sub-017,counting,Counting,Dorsal Attention,0.37926727770881613
+sub-017,counting,Counting,Salience/Ventral Attention,0.34243762373493736
+sub-017,counting,Counting,Limbic,0.11757934869018244
+sub-017,counting,Counting,Control,0.2579348226769245
+sub-017,counting,Counting,Default,0.28590205498045546
+sub-017,j1,J1,Subcortical,0.35318996124802576
+sub-017,j1,J1,Visual,0.3930742699460331
+sub-017,j1,J1,Somato-Motor,0.43167194561608757
+sub-017,j1,J1,Dorsal Attention,0.4720574717019311
+sub-017,j1,J1,Salience/Ventral Attention,0.45098283919896204
+sub-017,j1,J1,Limbic,0.3118314349483475
+sub-017,j1,J1,Control,0.4373870860988404
+sub-017,j1,J1,Default,0.44994411034084003
+sub-017,j2,J2,Subcortical,0.40178187295099355
+sub-017,j2,J2,Visual,0.3436802180001954
+sub-017,j2,J2,Somato-Motor,0.510342157828294
+sub-017,j2,J2,Dorsal Attention,0.5282850416432164
+sub-017,j2,J2,Salience/Ventral Attention,0.5355990751398286
+sub-017,j2,J2,Limbic,0.3259307039330301
+sub-017,j2,J2,Control,0.5175845698472337
+sub-017,j2,J2,Default,0.46960647716788817
+sub-017,j3,J3,Subcortical,0.29213134828391796
+sub-017,j3,J3,Visual,0.41706824750333243
+sub-017,j3,J3,Somato-Motor,0.49704555424807384
+sub-017,j3,J3,Dorsal Attention,0.44702340545942054
+sub-017,j3,J3,Salience/Ventral Attention,0.41505811936041986
+sub-017,j3,J3,Limbic,0.35973270592204454
+sub-017,j3,J3,Control,0.434049713930548
+sub-017,j3,J3,Default,0.44139877836631103
+sub-017,j4,J4,Subcortical,0.3305963813262147
+sub-017,j4,J4,Visual,0.4274240276922809
+sub-017,j4,J4,Somato-Motor,0.5035192016171294
+sub-017,j4,J4,Dorsal Attention,0.48048365578247565
+sub-017,j4,J4,Salience/Ventral Attention,0.45558988889153484
+sub-017,j4,J4,Limbic,0.4022557995345264
+sub-017,j4,J4,Control,0.5092776100401714
+sub-017,j4,J4,Default,0.41337753867154403
+sub-017,j5,J5,Subcortical,0.40223812848319884
+sub-017,j5,J5,Visual,0.42021103359360684
+sub-017,j5,J5,Somato-Motor,0.5771322374669596
+sub-017,j5,J5,Dorsal Attention,0.5256204565581535
+sub-017,j5,J5,Salience/Ventral Attention,0.4692778185959851
+sub-017,j5,J5,Limbic,0.38935263037223733
+sub-017,j5,J5,Control,0.5047310098669174
+sub-017,j5,J5,Default,0.46250471812262783
+sub-017,j6,J6,Subcortical,0.36788824687521976
+sub-017,j6,J6,Visual,0.3816439661708791
+sub-017,j6,J6,Somato-Motor,0.5150982662773314
+sub-017,j6,J6,Dorsal Attention,0.5313472807471724
+sub-017,j6,J6,Salience/Ventral Attention,0.4696378148095153
+sub-017,j6,J6,Limbic,0.32456033800678585
+sub-017,j6,J6,Control,0.40495645551308007
+sub-017,j6,J6,Default,0.3950238995794204
+sub-017,j7,J7,Subcortical,0.356648619700591
+sub-017,j7,J7,Visual,0.242460437408439
+sub-017,j7,J7,Somato-Motor,0.4819124388872117
+sub-017,j7,J7,Dorsal Attention,0.5168381785750635
+sub-017,j7,J7,Salience/Ventral Attention,0.49527013707285195
+sub-017,j7,J7,Limbic,0.455414769299953
+sub-017,j7,J7,Control,0.48170105546668024
+sub-017,j7,J7,Default,0.4427887307071681
+sub-018,memory,Memory,Subcortical,0.09522555968357405
+sub-018,memory,Memory,Visual,0.2814939704783889
+sub-018,memory,Memory,Somato-Motor,0.3158392567540335
+sub-018,memory,Memory,Dorsal Attention,0.258849401905134
+sub-018,memory,Memory,Salience/Ventral Attention,0.2553055425732982
+sub-018,memory,Memory,Limbic,0.11257286777636955
+sub-018,memory,Memory,Control,0.19489478692073625
+sub-018,memory,Memory,Default,0.1658731209042024
+sub-018,counting,Counting,Subcortical,0.13486866351521343
+sub-018,counting,Counting,Visual,0.37015492141780776
+sub-018,counting,Counting,Somato-Motor,0.35816906471013377
+sub-018,counting,Counting,Dorsal Attention,0.33152268961677855
+sub-018,counting,Counting,Salience/Ventral Attention,0.2695602489423881
+sub-018,counting,Counting,Limbic,0.22665500400292926
+sub-018,counting,Counting,Control,0.2367813061496236
+sub-018,counting,Counting,Default,0.26452570081368165
+sub-018,j1,J1,Subcortical,0.21260205238674915
+sub-018,j1,J1,Visual,0.33024923104432574
+sub-018,j1,J1,Somato-Motor,0.3646618971997823
+sub-018,j1,J1,Dorsal Attention,0.3473671876362731
+sub-018,j1,J1,Salience/Ventral Attention,0.34643538273855
+sub-018,j1,J1,Limbic,0.27381667349744526
+sub-018,j1,J1,Control,0.3289743896653681
+sub-018,j1,J1,Default,0.24635122206715607
+sub-018,j2,J2,Subcortical,0.15510492949545046
+sub-018,j2,J2,Visual,0.5794899721255553
+sub-018,j2,J2,Somato-Motor,0.601978142122465
+sub-018,j2,J2,Dorsal Attention,0.5554006838321218
+sub-018,j2,J2,Salience/Ventral Attention,0.4589085109724308
+sub-018,j2,J2,Limbic,0.47205999925163544
+sub-018,j2,J2,Control,0.43496493507707235
+sub-018,j2,J2,Default,0.5264283141507745
+sub-018,j3,J3,Subcortical,0.1963106441595769
+sub-018,j3,J3,Visual,0.49333032225161816
+sub-018,j3,J3,Somato-Motor,0.495649959629507
+sub-018,j3,J3,Dorsal Attention,0.5067925470853472
+sub-018,j3,J3,Salience/Ventral Attention,0.48085954988346735
+sub-018,j3,J3,Limbic,0.3020561481434886
+sub-018,j3,J3,Control,0.44297624960748405
+sub-018,j3,J3,Default,0.45475280731614043
+sub-018,j4,J4,Subcortical,0.22672120961735462
+sub-018,j4,J4,Visual,0.5752894161754916
+sub-018,j4,J4,Somato-Motor,0.5500000658808982
+sub-018,j4,J4,Dorsal Attention,0.5442800107490341
+sub-018,j4,J4,Salience/Ventral Attention,0.4621279113747887
+sub-018,j4,J4,Limbic,0.37044968883782636
+sub-018,j4,J4,Control,0.38069001654727247
+sub-018,j4,J4,Default,0.4624772273944105
+sub-018,j5,J5,Subcortical,0.25309574261807116
+sub-018,j5,J5,Visual,0.5509751436988553
+sub-018,j5,J5,Somato-Motor,0.547695281043622
+sub-018,j5,J5,Dorsal Attention,0.5451340073693757
+sub-018,j5,J5,Salience/Ventral Attention,0.48677591855153723
+sub-018,j5,J5,Limbic,0.4144866910755858
+sub-018,j5,J5,Control,0.45434231832418814
+sub-018,j5,J5,Default,0.49617723217498116
+sub-018,j6,J6,Subcortical,0.3027704028209547
+sub-018,j6,J6,Visual,0.6819085097759446
+sub-018,j6,J6,Somato-Motor,0.6945917379537302
+sub-018,j6,J6,Dorsal Attention,0.6750649715388943
+sub-018,j6,J6,Salience/Ventral Attention,0.6284298778911318
+sub-018,j6,J6,Limbic,0.5572085293265407
+sub-018,j6,J6,Control,0.55747780504393
+sub-018,j6,J6,Default,0.6093470997709501
+sub-018,j7,J7,Subcortical,0.3138285086881109
+sub-018,j7,J7,Visual,0.6502392232102666
+sub-018,j7,J7,Somato-Motor,0.648865429961146
+sub-018,j7,J7,Dorsal Attention,0.6354337971263507
+sub-018,j7,J7,Salience/Ventral Attention,0.5880677236013996
+sub-018,j7,J7,Limbic,0.5338642060942389
+sub-018,j7,J7,Control,0.5589403360438515
+sub-018,j7,J7,Default,0.6029546305641896
+sub-018,j8,J8,Subcortical,0.25167041642745913
+sub-018,j8,J8,Visual,0.6071722259498682
+sub-018,j8,J8,Somato-Motor,0.65128424709259
+sub-018,j8,J8,Dorsal Attention,0.6415924857486196
+sub-018,j8,J8,Salience/Ventral Attention,0.5567581129748439
+sub-018,j8,J8,Limbic,0.5463929108876553
+sub-018,j8,J8,Control,0.5271538327249136
+sub-018,j8,J8,Default,0.5884941130649992
+sub-020,memory,Memory,Subcortical,0.3220917295322358
+sub-020,memory,Memory,Visual,0.3950692823372512
+sub-020,memory,Memory,Somato-Motor,0.4764449962393013
+sub-020,memory,Memory,Dorsal Attention,0.4350793126052889
+sub-020,memory,Memory,Salience/Ventral Attention,0.4762335873472386
+sub-020,memory,Memory,Limbic,0.336647348375867
+sub-020,memory,Memory,Control,0.42423900070674775
+sub-020,memory,Memory,Default,0.39720352604130194
+sub-020,counting,Counting,Subcortical,0.28286886974589404
+sub-020,counting,Counting,Visual,0.4568039262929587
+sub-020,counting,Counting,Somato-Motor,0.48098726836992867
+sub-020,counting,Counting,Dorsal Attention,0.46953987261930397
+sub-020,counting,Counting,Salience/Ventral Attention,0.49308265112653704
+sub-020,counting,Counting,Limbic,0.26302135319654585
+sub-020,counting,Counting,Control,0.45291929717190604
+sub-020,counting,Counting,Default,0.42086066746039785
+sub-020,j1,J1,Subcortical,0.22792315197136317
+sub-020,j1,J1,Visual,0.4011375016130078
+sub-020,j1,J1,Somato-Motor,0.32474629753675843
+sub-020,j1,J1,Dorsal Attention,0.2825781678896532
+sub-020,j1,J1,Salience/Ventral Attention,0.22770089300590668
+sub-020,j1,J1,Limbic,0.2339788327872934
+sub-020,j1,J1,Control,0.25567492574678524
+sub-020,j1,J1,Default,0.3326710119867176
+sub-020,j2,J2,Subcortical,0.1807186647606029
+sub-020,j2,J2,Visual,0.3222214998617093
+sub-020,j2,J2,Somato-Motor,0.41509623726760375
+sub-020,j2,J2,Dorsal Attention,0.42395801889013507
+sub-020,j2,J2,Salience/Ventral Attention,0.3582779335153594
+sub-020,j2,J2,Limbic,0.21264985072319012
+sub-020,j2,J2,Control,0.32796733300880526
+sub-020,j2,J2,Default,0.3235446502464484
+sub-020,j3,J3,Subcortical,0.31620366553209095
+sub-020,j3,J3,Visual,0.4116595632253988
+sub-020,j3,J3,Somato-Motor,0.40915521237831903
+sub-020,j3,J3,Dorsal Attention,0.3508453892254023
+sub-020,j3,J3,Salience/Ventral Attention,0.3381017699621211
+sub-020,j3,J3,Limbic,0.23722285655548803
+sub-020,j3,J3,Control,0.3559539546187751
+sub-020,j3,J3,Default,0.3519252858184458
+sub-020,j4,J4,Subcortical,0.2905868911838972
+sub-020,j4,J4,Visual,0.454434308198113
+sub-020,j4,J4,Somato-Motor,0.4513420396842126
+sub-020,j4,J4,Dorsal Attention,0.410404515179897
+sub-020,j4,J4,Salience/Ventral Attention,0.4746643711759557
+sub-020,j4,J4,Limbic,0.25064648174942805
+sub-020,j4,J4,Control,0.46543681454092317
+sub-020,j4,J4,Default,0.4246829916093326
+sub-021,memory,Memory,Subcortical,0.20442422335126767
+sub-021,memory,Memory,Visual,0.40147380893000156
+sub-021,memory,Memory,Somato-Motor,0.47851084366839014
+sub-021,memory,Memory,Dorsal Attention,0.43748289019074266
+sub-021,memory,Memory,Salience/Ventral Attention,0.4730466631268783
+sub-021,memory,Memory,Limbic,0.2101104961076419
+sub-021,memory,Memory,Control,0.4440400865931102
+sub-021,memory,Memory,Default,0.37470827737125506
+sub-021,counting,Counting,Subcortical,0.06924011911135906
+sub-021,counting,Counting,Visual,0.36585630356353493
+sub-021,counting,Counting,Somato-Motor,0.3724561726989069
+sub-021,counting,Counting,Dorsal Attention,0.29533990261560333
+sub-021,counting,Counting,Salience/Ventral Attention,0.2587417464354295
+sub-021,counting,Counting,Limbic,0.12730799100093385
+sub-021,counting,Counting,Control,0.12553542212585705
+sub-021,counting,Counting,Default,0.17256077551787607
+sub-021,j1,J1,Subcortical,0.21516701084129536
+sub-021,j1,J1,Visual,0.38869240987818793
+sub-021,j1,J1,Somato-Motor,0.4240290761932867
+sub-021,j1,J1,Dorsal Attention,0.4097048964403097
+sub-021,j1,J1,Salience/Ventral Attention,0.4066947877966065
+sub-021,j1,J1,Limbic,0.09202320659978931
+sub-021,j1,J1,Control,0.36598905108048313
+sub-021,j1,J1,Default,0.32303506830772677
+sub-021,j2,J2,Subcortical,0.17317863424448043
+sub-021,j2,J2,Visual,0.32843214832902196
+sub-021,j2,J2,Somato-Motor,0.4023143427233001
+sub-021,j2,J2,Dorsal Attention,0.32600652815458175
+sub-021,j2,J2,Salience/Ventral Attention,0.3753339840270118
+sub-021,j2,J2,Limbic,0.11724030363034885
+sub-021,j2,J2,Control,0.24004784671478174
+sub-021,j2,J2,Default,0.2534733041809457
+sub-021,j3,J3,Subcortical,0.170244358043962
+sub-021,j3,J3,Visual,0.3477819139010244
+sub-021,j3,J3,Somato-Motor,0.42187283144974413
+sub-021,j3,J3,Dorsal Attention,0.37371753513231987
+sub-021,j3,J3,Salience/Ventral Attention,0.3607844373038005
+sub-021,j3,J3,Limbic,0.19604862983962681
+sub-021,j3,J3,Control,0.2942455734796003
+sub-021,j3,J3,Default,0.29456831319896193
+sub-021,j4,J4,Subcortical,0.10996310200844067
+sub-021,j4,J4,Visual,0.3436845024444594
+sub-021,j4,J4,Somato-Motor,0.3856077508678659
+sub-021,j4,J4,Dorsal Attention,0.3698336696366963
+sub-021,j4,J4,Salience/Ventral Attention,0.28733124188131176
+sub-021,j4,J4,Limbic,0.1701060045787983
+sub-021,j4,J4,Control,0.27662142606908746
+sub-021,j4,J4,Default,0.2570667725415788
+sub-021,j5,J5,Subcortical,0.16695625455353766
+sub-021,j5,J5,Visual,0.3077042718860879
+sub-021,j5,J5,Somato-Motor,0.3405210147834567
+sub-021,j5,J5,Dorsal Attention,0.35907256438168295
+sub-021,j5,J5,Salience/Ventral Attention,0.312985837073277
+sub-021,j5,J5,Limbic,0.13847598186572999
+sub-021,j5,J5,Control,0.294469259157506
+sub-021,j5,J5,Default,0.257331940800875
+sub-021,j6,J6,Subcortical,0.1406597896694146
+sub-021,j6,J6,Visual,0.28918927141984757
+sub-021,j6,J6,Somato-Motor,0.35662736810023404
+sub-021,j6,J6,Dorsal Attention,0.339834671035192
+sub-021,j6,J6,Salience/Ventral Attention,0.3174990101103831
+sub-021,j6,J6,Limbic,0.13183955559537808
+sub-021,j6,J6,Control,0.20923584257691819
+sub-021,j6,J6,Default,0.17619406143446964
+sub-021,j7,J7,Subcortical,0.13618814087803033
+sub-021,j7,J7,Visual,0.321943364816395
+sub-021,j7,J7,Somato-Motor,0.40810373008164774
+sub-021,j7,J7,Dorsal Attention,0.37791678173198207
+sub-021,j7,J7,Salience/Ventral Attention,0.3499508077166059
+sub-021,j7,J7,Limbic,0.20384211077354178
+sub-021,j7,J7,Control,0.24204259147883728
+sub-021,j7,J7,Default,0.23108267912989894
+sub-021,j8,J8,Subcortical,0.10599261149949887
+sub-021,j8,J8,Visual,0.18716646075948723
+sub-021,j8,J8,Somato-Motor,0.23518928423616142
+sub-021,j8,J8,Dorsal Attention,0.23025925790066104
+sub-021,j8,J8,Salience/Ventral Attention,0.21266397854202446
+sub-021,j8,J8,Limbic,0.12293375108091197
+sub-021,j8,J8,Control,0.1752230178581305
+sub-021,j8,J8,Default,0.16769766688877955
+sub-025,memory,Memory,Subcortical,0.2034158603407568
+sub-025,memory,Memory,Visual,0.36164988317521235
+sub-025,memory,Memory,Somato-Motor,0.33600025719310284
+sub-025,memory,Memory,Dorsal Attention,0.3116465972525624
+sub-025,memory,Memory,Salience/Ventral Attention,0.3723441900080793
+sub-025,memory,Memory,Limbic,0.20496426423561442
+sub-025,memory,Memory,Control,0.3421032066869029
+sub-025,memory,Memory,Default,0.29498688332277656
+sub-025,counting,Counting,Subcortical,0.22957628618130904
+sub-025,counting,Counting,Visual,0.31551244513161
+sub-025,counting,Counting,Somato-Motor,0.37076538922214786
+sub-025,counting,Counting,Dorsal Attention,0.27105777505427536
+sub-025,counting,Counting,Salience/Ventral Attention,0.33667599555084693
+sub-025,counting,Counting,Limbic,0.26912926809451876
+sub-025,counting,Counting,Control,0.18583552651007665
+sub-025,counting,Counting,Default,0.2795299788833354
+sub-025,j1,J1,Subcortical,0.3996141270767215
+sub-025,j1,J1,Visual,0.49957608509755724
+sub-025,j1,J1,Somato-Motor,0.5287274613599612
+sub-025,j1,J1,Dorsal Attention,0.478660742982848
+sub-025,j1,J1,Salience/Ventral Attention,0.45958610019085916
+sub-025,j1,J1,Limbic,0.3071281398721982
+sub-025,j1,J1,Control,0.4239957937696979
+sub-025,j1,J1,Default,0.43796876834719084
+sub-025,j2,J2,Subcortical,0.2555328225527718
+sub-025,j2,J2,Visual,0.39703927293656
+sub-025,j2,J2,Somato-Motor,0.3324463214813172
+sub-025,j2,J2,Dorsal Attention,0.3516180542415076
+sub-025,j2,J2,Salience/Ventral Attention,0.3505865474439231
+sub-025,j2,J2,Limbic,0.160703083857415
+sub-025,j2,J2,Control,0.3652406425809717
+sub-025,j2,J2,Default,0.34441691275534464
+sub-025,j3,J3,Subcortical,0.25348912816511643
+sub-025,j3,J3,Visual,0.4278374767702534
+sub-025,j3,J3,Somato-Motor,0.38989961756282515
+sub-025,j3,J3,Dorsal Attention,0.38594909807683964
+sub-025,j3,J3,Salience/Ventral Attention,0.4270240089687911
+sub-025,j3,J3,Limbic,0.2385150640502372
+sub-025,j3,J3,Control,0.36533130425218346
+sub-025,j3,J3,Default,0.3222379510731966
+sub-025,j4,J4,Subcortical,0.22256175091768587
+sub-025,j4,J4,Visual,0.3944849020041454
+sub-025,j4,J4,Somato-Motor,0.3448165827205095
+sub-025,j4,J4,Dorsal Attention,0.3160249017891382
+sub-025,j4,J4,Salience/Ventral Attention,0.3172048152758148
+sub-025,j4,J4,Limbic,0.22450382922176093
+sub-025,j4,J4,Control,0.31357386667519305
+sub-025,j4,J4,Default,0.28348175835888334
+sub-025,j5,J5,Subcortical,0.3178402969747819
+sub-025,j5,J5,Visual,0.470937626129581
+sub-025,j5,J5,Somato-Motor,0.4540550972096495
+sub-025,j5,J5,Dorsal Attention,0.41673377811457146
+sub-025,j5,J5,Salience/Ventral Attention,0.39975808070186225
+sub-025,j5,J5,Limbic,0.31132808030060133
+sub-025,j5,J5,Control,0.38023109515843906
+sub-025,j5,J5,Default,0.4133454515353889
+sub-025,j6,J6,Subcortical,0.30634684672926626
+sub-025,j6,J6,Visual,0.3974188061216038
+sub-025,j6,J6,Somato-Motor,0.3628625179857075
+sub-025,j6,J6,Dorsal Attention,0.3389182774650568
+sub-025,j6,J6,Salience/Ventral Attention,0.31012486128445854
+sub-025,j6,J6,Limbic,0.30083449092593184
+sub-025,j6,J6,Control,0.35797212989692306
+sub-025,j6,J6,Default,0.3981389716743683
+sub-025,j7,J7,Subcortical,0.22886952809509636
+sub-025,j7,J7,Visual,0.3133409768630424
+sub-025,j7,J7,Somato-Motor,0.2891289670861307
+sub-025,j7,J7,Dorsal Attention,0.2792341181260852
+sub-025,j7,J7,Salience/Ventral Attention,0.21982409477234205
+sub-025,j7,J7,Limbic,0.2090023729357024
+sub-025,j7,J7,Control,0.3044159172522949
+sub-025,j7,J7,Default,0.30114534783055397
+sub-025,j8,J8,Subcortical,0.2351961736351306
+sub-025,j8,J8,Visual,0.4340778363607321
+sub-025,j8,J8,Somato-Motor,0.36939669303411204
+sub-025,j8,J8,Dorsal Attention,0.3036861587346176
+sub-025,j8,J8,Salience/Ventral Attention,0.3014029289815397
+sub-025,j8,J8,Limbic,0.2453509520453567
+sub-025,j8,J8,Control,0.2840151120441993
+sub-025,j8,J8,Default,0.24290709462204024
+sub-029,memory,Memory,Subcortical,0.15222259254682777
+sub-029,memory,Memory,Visual,0.35517615392014346
+sub-029,memory,Memory,Somato-Motor,0.3438996662743789
+sub-029,memory,Memory,Dorsal Attention,0.35902425149619127
+sub-029,memory,Memory,Salience/Ventral Attention,0.3505595501056569
+sub-029,memory,Memory,Limbic,0.22107378160844957
+sub-029,memory,Memory,Control,0.1732732339273083
+sub-029,memory,Memory,Default,0.22087292944778858
+sub-029,counting,Counting,Subcortical,0.1490965166345719
+sub-029,counting,Counting,Visual,0.43419553567965874
+sub-029,counting,Counting,Somato-Motor,0.4475296864948671
+sub-029,counting,Counting,Dorsal Attention,0.46343251205147834
+sub-029,counting,Counting,Salience/Ventral Attention,0.40679122265402673
+sub-029,counting,Counting,Limbic,0.348376920689345
+sub-029,counting,Counting,Control,0.3222829524710585
+sub-029,counting,Counting,Default,0.3754925343663631
+sub-029,j1,J1,Subcortical,0.09145067892438605
+sub-029,j1,J1,Visual,0.090035376321988
+sub-029,j1,J1,Somato-Motor,0.16639894355011028
+sub-029,j1,J1,Dorsal Attention,0.09036276428957696
+sub-029,j1,J1,Salience/Ventral Attention,0.19402125044370086
+sub-029,j1,J1,Limbic,0.1139552850829902
+sub-029,j1,J1,Control,0.09798891611103423
+sub-029,j1,J1,Default,0.16575701896371384
+sub-029,j2,J2,Subcortical,0.1236870623465038
+sub-029,j2,J2,Visual,0.218958788621983
+sub-029,j2,J2,Somato-Motor,0.2436427954903463
+sub-029,j2,J2,Dorsal Attention,0.28572462342432736
+sub-029,j2,J2,Salience/Ventral Attention,0.24922291124421234
+sub-029,j2,J2,Limbic,0.14370789920513757
+sub-029,j2,J2,Control,0.218486806510095
+sub-029,j2,J2,Default,0.2684507308738792
+sub-029,j4,J4,Subcortical,0.011793349421535763
+sub-029,j4,J4,Visual,0.07739964378353426
+sub-029,j4,J4,Somato-Motor,0.032303915095206095
+sub-029,j4,J4,Dorsal Attention,0.09456121833722905
+sub-029,j4,J4,Salience/Ventral Attention,0.15568336507955233
+sub-029,j4,J4,Limbic,-0.04865827453569168
+sub-029,j4,J4,Control,0.07833148574468934
+sub-029,j4,J4,Default,0.12100945542648937
+sub-029,j5,J5,Subcortical,0.12522728617545578
+sub-029,j5,J5,Visual,0.289837735744944
+sub-029,j5,J5,Somato-Motor,0.3329768670812447
+sub-029,j5,J5,Dorsal Attention,0.31099182556239024
+sub-029,j5,J5,Salience/Ventral Attention,0.19646885242343146
+sub-029,j5,J5,Limbic,0.17211792598019912
+sub-029,j5,J5,Control,0.2213226905804393
+sub-029,j5,J5,Default,0.24289152534821823
+sub-029,j6,J6,Subcortical,0.07036349737548815
+sub-029,j6,J6,Visual,-0.01783307124157332
+sub-029,j6,J6,Somato-Motor,0.1677855638923887
+sub-029,j6,J6,Dorsal Attention,0.1453962859616616
+sub-029,j6,J6,Salience/Ventral Attention,0.15258688984975946
+sub-029,j6,J6,Limbic,0.16698737967152955
+sub-029,j6,J6,Control,0.1432633781943492
+sub-029,j6,J6,Default,0.10547312829387498
+sub-029,j7,J7,Subcortical,0.22316018929727077
+sub-029,j7,J7,Visual,0.36694362902420913
+sub-029,j7,J7,Somato-Motor,0.42558966354244343
+sub-029,j7,J7,Dorsal Attention,0.4261973563877695
+sub-029,j7,J7,Salience/Ventral Attention,0.3549012873826825
+sub-029,j7,J7,Limbic,0.22073434799895958
+sub-029,j7,J7,Control,0.3147241378642335
+sub-029,j7,J7,Default,0.2889825916574656
+sub-029,j8,J8,Subcortical,0.16132423328458018
+sub-029,j8,J8,Visual,0.27851293341020167
+sub-029,j8,J8,Somato-Motor,0.2482854806425985
+sub-029,j8,J8,Dorsal Attention,0.32199617739348557
+sub-029,j8,J8,Salience/Ventral Attention,0.2180519050328106
+sub-029,j8,J8,Limbic,0.09316911970698444
+sub-029,j8,J8,Control,0.24948365057137045
+sub-029,j8,J8,Default,0.27053983548632476
+sub-030,memory,Memory,Subcortical,0.17698846671151022
+sub-030,memory,Memory,Visual,0.32821421007806284
+sub-030,memory,Memory,Somato-Motor,0.34200274212878895
+sub-030,memory,Memory,Dorsal Attention,0.3031224706423836
+sub-030,memory,Memory,Salience/Ventral Attention,0.34642470107030454
+sub-030,memory,Memory,Limbic,0.2373976257618561
+sub-030,memory,Memory,Control,0.30537724052352877
+sub-030,memory,Memory,Default,0.25216354466291047
+sub-030,counting,Counting,Subcortical,0.12142050460891823
+sub-030,counting,Counting,Visual,0.3433107032622447
+sub-030,counting,Counting,Somato-Motor,0.34876378765369614
+sub-030,counting,Counting,Dorsal Attention,0.3250863203848612
+sub-030,counting,Counting,Salience/Ventral Attention,0.33473717794872065
+sub-030,counting,Counting,Limbic,0.11654360219438616
+sub-030,counting,Counting,Control,0.27810015893899925
+sub-030,counting,Counting,Default,0.15626082059128746
+sub-030,j1,J1,Subcortical,0.29836083025218696
+sub-030,j1,J1,Visual,0.4683275453283091
+sub-030,j1,J1,Somato-Motor,0.4902168501609602
+sub-030,j1,J1,Dorsal Attention,0.45935934422766095
+sub-030,j1,J1,Salience/Ventral Attention,0.5039532449202431
+sub-030,j1,J1,Limbic,0.4006952863828551
+sub-030,j1,J1,Control,0.4427161732077029
+sub-030,j1,J1,Default,0.4599050994159929
+sub-030,j2,J2,Subcortical,0.2446827781188781
+sub-030,j2,J2,Visual,0.5339977564854527
+sub-030,j2,J2,Somato-Motor,0.4992277405583946
+sub-030,j2,J2,Dorsal Attention,0.5470198751392802
+sub-030,j2,J2,Salience/Ventral Attention,0.5204249391123164
+sub-030,j2,J2,Limbic,0.41885951018315054
+sub-030,j2,J2,Control,0.4986810248304225
+sub-030,j2,J2,Default,0.4764914295130448
+sub-030,j3,J3,Subcortical,0.3722883010299765
+sub-030,j3,J3,Visual,0.5949949081917274
+sub-030,j3,J3,Somato-Motor,0.586098377948884
+sub-030,j3,J3,Dorsal Attention,0.5613955805504035
+sub-030,j3,J3,Salience/Ventral Attention,0.5653646779942665
+sub-030,j3,J3,Limbic,0.43561647101049633
+sub-030,j3,J3,Control,0.5220961721523317
+sub-030,j3,J3,Default,0.49033605960018783
+sub-030,j4,J4,Subcortical,0.31010905201851263
+sub-030,j4,J4,Visual,0.554064761351784
+sub-030,j4,J4,Somato-Motor,0.5471088816294309
+sub-030,j4,J4,Dorsal Attention,0.5365384721066959
+sub-030,j4,J4,Salience/Ventral Attention,0.5910767782093623
+sub-030,j4,J4,Limbic,0.44123134573172695
+sub-030,j4,J4,Control,0.5170725226554099
+sub-030,j4,J4,Default,0.5220405452843488
+sub-030,j5,J5,Subcortical,0.41458929540885775
+sub-030,j5,J5,Visual,0.6106625082605475
+sub-030,j5,J5,Somato-Motor,0.5551220622007826
+sub-030,j5,J5,Dorsal Attention,0.3992278878884816
+sub-030,j5,J5,Salience/Ventral Attention,0.5748953190332442
+sub-030,j5,J5,Limbic,0.4892665960725892
+sub-030,j5,J5,Control,0.5188721857258671
+sub-030,j5,J5,Default,0.5719856069008308
+sub-030,j6,J6,Subcortical,0.3419918935687746
+sub-030,j6,J6,Visual,0.49166489431267835
+sub-030,j6,J6,Somato-Motor,0.5413863166529519
+sub-030,j6,J6,Dorsal Attention,0.4847938777625749
+sub-030,j6,J6,Salience/Ventral Attention,0.5403904162659255
+sub-030,j6,J6,Limbic,0.46063075503006495
+sub-030,j6,J6,Control,0.49109896123590385
+sub-030,j6,J6,Default,0.5058612022564376
+sub-030,j7,J7,Subcortical,0.20268277616723376
+sub-030,j7,J7,Visual,0.44297743878329404
+sub-030,j7,J7,Somato-Motor,0.4803397522620412
+sub-030,j7,J7,Dorsal Attention,0.3751604296915734
+sub-030,j7,J7,Salience/Ventral Attention,0.4135025554963938
+sub-030,j7,J7,Limbic,0.27414987705149274
+sub-030,j7,J7,Control,0.3468601905816537
+sub-030,j7,J7,Default,0.2970129604164357
+sub-030,j8,J8,Subcortical,0.2637980874607203
+sub-030,j8,J8,Visual,0.4325420130439927
+sub-030,j8,J8,Somato-Motor,0.41567421531491505
+sub-030,j8,J8,Dorsal Attention,0.4167245670171016
+sub-030,j8,J8,Salience/Ventral Attention,0.4045777079094422
+sub-030,j8,J8,Limbic,0.33675298395324027
+sub-030,j8,J8,Control,0.3554763623523193
+sub-030,j8,J8,Default,0.32647035805548225
+sub-033,memory,Memory,Subcortical,0.1371419085883381
+sub-033,memory,Memory,Visual,0.3193868865207831
+sub-033,memory,Memory,Somato-Motor,0.3135833782920035
+sub-033,memory,Memory,Dorsal Attention,0.30018109000457505
+sub-033,memory,Memory,Salience/Ventral Attention,0.2859795559390504
+sub-033,memory,Memory,Limbic,0.20873607097610766
+sub-033,memory,Memory,Control,0.24781157036722254
+sub-033,memory,Memory,Default,0.18458710047245105
+sub-033,counting,Counting,Subcortical,0.3430691584625088
+sub-033,counting,Counting,Visual,0.5367130407045195
+sub-033,counting,Counting,Somato-Motor,0.5366130141313523
+sub-033,counting,Counting,Dorsal Attention,0.5059741869371847
+sub-033,counting,Counting,Salience/Ventral Attention,0.48298359706921196
+sub-033,counting,Counting,Limbic,0.4074471103069777
+sub-033,counting,Counting,Control,0.44083273623869373
+sub-033,counting,Counting,Default,0.35145266515130713
+sub-033,j1,J1,Subcortical,0.30958495139464454
+sub-033,j1,J1,Visual,0.4850169552963175
+sub-033,j1,J1,Somato-Motor,0.41356039149773627
+sub-033,j1,J1,Dorsal Attention,0.3472540036958403
+sub-033,j1,J1,Salience/Ventral Attention,0.33487078756606037
+sub-033,j1,J1,Limbic,0.37474479799687693
+sub-033,j1,J1,Control,0.41088867044026706
+sub-033,j1,J1,Default,0.5017715745570145
+sub-033,j2,J2,Subcortical,0.14585454196688127
+sub-033,j2,J2,Visual,0.3641384891453929
+sub-033,j2,J2,Somato-Motor,0.3102030863953969
+sub-033,j2,J2,Dorsal Attention,0.3322078506913196
+sub-033,j2,J2,Salience/Ventral Attention,0.33378927579826484
+sub-033,j2,J2,Limbic,0.27629577685217604
+sub-033,j2,J2,Control,0.27332262007179225
+sub-033,j2,J2,Default,0.16764922297194756
+sub-033,j3,J3,Subcortical,0.22308876450753576
+sub-033,j3,J3,Visual,0.38793840445040906
+sub-033,j3,J3,Somato-Motor,0.18940586632541645
+sub-033,j3,J3,Dorsal Attention,0.2944738850736769
+sub-033,j3,J3,Salience/Ventral Attention,0.17807413203230746
+sub-033,j3,J3,Limbic,0.2593991906691111
+sub-033,j3,J3,Control,0.31614872990967613
+sub-033,j3,J3,Default,0.349900842312831
+sub-033,j4,J4,Subcortical,0.22161465759993842
+sub-033,j4,J4,Visual,0.43404266330570496
+sub-033,j4,J4,Somato-Motor,0.4119390740601257
+sub-033,j4,J4,Dorsal Attention,0.30620022306362055
+sub-033,j4,J4,Salience/Ventral Attention,0.29581430857967506
+sub-033,j4,J4,Limbic,0.34271933969925034
+sub-033,j4,J4,Control,0.31081603502213057
+sub-033,j4,J4,Default,0.37018690868410414
+sub-033,j5,J5,Subcortical,0.08252010581093405
+sub-033,j5,J5,Visual,0.35687979248104174
+sub-033,j5,J5,Somato-Motor,0.3603425467550379
+sub-033,j5,J5,Dorsal Attention,0.3810713368727627
+sub-033,j5,J5,Salience/Ventral Attention,0.34346653205907857
+sub-033,j5,J5,Limbic,0.14851092011615497
+sub-033,j5,J5,Control,0.3130435448646946
+sub-033,j5,J5,Default,0.09027566479689442
+sub-033,j6,J6,Subcortical,0.1894525458515641
+sub-033,j6,J6,Visual,0.3287035101166267
+sub-033,j6,J6,Somato-Motor,0.24628637557674452
+sub-033,j6,J6,Dorsal Attention,0.16481453255492362
+sub-033,j6,J6,Salience/Ventral Attention,0.20038790921754562
+sub-033,j6,J6,Limbic,0.12012980790544396
+sub-033,j6,J6,Control,0.16386728786460436
+sub-033,j6,J6,Default,0.1730580424158923
+sub-033,j7,J7,Subcortical,0.21732650711723
+sub-033,j7,J7,Visual,0.34880196777583466
+sub-033,j7,J7,Somato-Motor,0.3827287468318184
+sub-033,j7,J7,Dorsal Attention,0.38040840288482175
+sub-033,j7,J7,Salience/Ventral Attention,0.36636947849206375
+sub-033,j7,J7,Limbic,0.24758878543784685
+sub-033,j7,J7,Control,0.35657108206491145
+sub-033,j7,J7,Default,0.37688410914204207
+sub-033,j8,J8,Subcortical,0.24422099664437774
+sub-033,j8,J8,Visual,0.4737027593110324
+sub-033,j8,J8,Somato-Motor,0.4793155100182494
+sub-033,j8,J8,Dorsal Attention,0.44975702639595405
+sub-033,j8,J8,Salience/Ventral Attention,0.41989677793420477
+sub-033,j8,J8,Limbic,0.2663057741332571
+sub-033,j8,J8,Control,0.3348419023252426
+sub-033,j8,J8,Default,0.2997697075854178
+sub-034,memory,Memory,Subcortical,0.2827163168455242
+sub-034,memory,Memory,Visual,0.43187283449620156
+sub-034,memory,Memory,Somato-Motor,0.4708892717851844
+sub-034,memory,Memory,Dorsal Attention,0.4162274679957864
+sub-034,memory,Memory,Salience/Ventral Attention,0.4507746933839447
+sub-034,memory,Memory,Limbic,0.2164340721142705
+sub-034,memory,Memory,Control,0.36932626632770676
+sub-034,memory,Memory,Default,0.3553698736633315
+sub-034,counting,Counting,Subcortical,0.11374048899006234
+sub-034,counting,Counting,Visual,0.2719937089899161
+sub-034,counting,Counting,Somato-Motor,0.2776927194936032
+sub-034,counting,Counting,Dorsal Attention,0.2637417797693754
+sub-034,counting,Counting,Salience/Ventral Attention,0.24250738646759495
+sub-034,counting,Counting,Limbic,0.08989645208665008
+sub-034,counting,Counting,Control,0.21499054155094893
+sub-034,counting,Counting,Default,0.15384920202249736
+sub-034,j1,J1,Subcortical,0.22743572969284445
+sub-034,j1,J1,Visual,0.3597394226821606
+sub-034,j1,J1,Somato-Motor,0.3834485256203828
+sub-034,j1,J1,Dorsal Attention,0.42582687287051474
+sub-034,j1,J1,Salience/Ventral Attention,0.42006640685685814
+sub-034,j1,J1,Limbic,0.13766435306946695
+sub-034,j1,J1,Control,0.3122944299476808
+sub-034,j1,J1,Default,0.2550905164514122
+sub-034,j2,J2,Subcortical,0.26093924499120463
+sub-034,j2,J2,Visual,0.3696371227169349
+sub-034,j2,J2,Somato-Motor,0.4724620891070558
+sub-034,j2,J2,Dorsal Attention,0.46052681248979904
+sub-034,j2,J2,Salience/Ventral Attention,0.5145153756265295
+sub-034,j2,J2,Limbic,0.06081727898969073
+sub-034,j2,J2,Control,0.39080295488629074
+sub-034,j2,J2,Default,0.36704830135976696
+sub-034,j3,J3,Subcortical,0.06389505566475895
+sub-034,j3,J3,Visual,0.1456452156262909
+sub-034,j3,J3,Somato-Motor,0.1746917439990517
+sub-034,j3,J3,Dorsal Attention,0.21177139222074504
+sub-034,j3,J3,Salience/Ventral Attention,0.22226468664124704
+sub-034,j3,J3,Limbic,-0.0897052101621057
+sub-034,j3,J3,Control,0.17746955396167394
+sub-034,j3,J3,Default,0.17246353142758283
+sub-034,j4,J4,Subcortical,0.10362366487661805
+sub-034,j4,J4,Visual,0.1954196184131042
+sub-034,j4,J4,Somato-Motor,0.1998641854464091
+sub-034,j4,J4,Dorsal Attention,0.1642204245769857
+sub-034,j4,J4,Salience/Ventral Attention,0.1831965379324903
+sub-034,j4,J4,Limbic,0.038517365786863385
+sub-034,j4,J4,Control,0.09135993598647048
+sub-034,j4,J4,Default,0.13730248525445987
+sub-034,j5,J5,Subcortical,0.10439394594794503
+sub-034,j5,J5,Visual,0.29831349856099393
+sub-034,j5,J5,Somato-Motor,0.34983549783385637
+sub-034,j5,J5,Dorsal Attention,0.30093913487326196
+sub-034,j5,J5,Salience/Ventral Attention,0.3368371554509759
+sub-034,j5,J5,Limbic,0.1312768979888441
+sub-034,j5,J5,Control,0.21067973215121108
+sub-034,j5,J5,Default,0.2833940311871095
+sub-034,j6,J6,Subcortical,0.20691480749586222
+sub-034,j6,J6,Visual,0.3610090759131632
+sub-034,j6,J6,Somato-Motor,0.33054026265381975
+sub-034,j6,J6,Dorsal Attention,0.39673955403074657
+sub-034,j6,J6,Salience/Ventral Attention,0.37299547575912745
+sub-034,j6,J6,Limbic,0.1906876601009524
+sub-034,j6,J6,Control,0.2799976339386424
+sub-034,j6,J6,Default,0.26547723429491177
+sub-034,j7,J7,Subcortical,0.10052716527439587
+sub-034,j7,J7,Visual,0.2036229052410225
+sub-034,j7,J7,Somato-Motor,0.2467228718188092
+sub-034,j7,J7,Dorsal Attention,0.2231871673694778
+sub-034,j7,J7,Salience/Ventral Attention,0.2392132208503823
+sub-034,j7,J7,Limbic,0.15438020186022772
+sub-034,j7,J7,Control,0.16592690464237886
+sub-034,j7,J7,Default,0.19606767599584338
+sub-034,j8,J8,Subcortical,0.18150901355263027
+sub-034,j8,J8,Visual,0.2900663623870083
+sub-034,j8,J8,Somato-Motor,0.3431691984849159
+sub-034,j8,J8,Dorsal Attention,0.3177135379154373
+sub-034,j8,J8,Salience/Ventral Attention,0.36074236354977907
+sub-034,j8,J8,Limbic,-0.05992561683430949
+sub-034,j8,J8,Control,0.25964053243327523
+sub-034,j8,J8,Default,0.3196398324732279
+sub-035,memory,Memory,Subcortical,0.1739966780406603
+sub-035,memory,Memory,Visual,0.2774306984372094
+sub-035,memory,Memory,Somato-Motor,0.3156910198718012
+sub-035,memory,Memory,Dorsal Attention,0.30808423000409946
+sub-035,memory,Memory,Salience/Ventral Attention,0.2927563725611591
+sub-035,memory,Memory,Limbic,0.2346571946237021
+sub-035,memory,Memory,Control,0.3118950047184063
+sub-035,memory,Memory,Default,0.27624921838494854
+sub-035,counting,Counting,Subcortical,0.1841372486481564
+sub-035,counting,Counting,Visual,0.3173416653290132
+sub-035,counting,Counting,Somato-Motor,0.32394262798564216
+sub-035,counting,Counting,Dorsal Attention,0.32657213638361443
+sub-035,counting,Counting,Salience/Ventral Attention,0.28594174959998847
+sub-035,counting,Counting,Limbic,0.25105277499488865
+sub-035,counting,Counting,Control,0.2888520700998153
+sub-035,counting,Counting,Default,0.2828420179357702
+sub-035,j1,J1,Subcortical,0.07601449038316113
+sub-035,j1,J1,Visual,0.1421484875872309
+sub-035,j1,J1,Somato-Motor,0.22548909121805
+sub-035,j1,J1,Dorsal Attention,0.31579505480391856
+sub-035,j1,J1,Salience/Ventral Attention,0.26448146437229614
+sub-035,j1,J1,Limbic,0.25239786505560524
+sub-035,j1,J1,Control,0.2811326009267086
+sub-035,j1,J1,Default,0.25240042522694084
+sub-035,j2,J2,Subcortical,0.11259384327285904
+sub-035,j2,J2,Visual,0.15958351207345972
+sub-035,j2,J2,Somato-Motor,0.22198825285380705
+sub-035,j2,J2,Dorsal Attention,0.23209442508365705
+sub-035,j2,J2,Salience/Ventral Attention,0.26408257398590584
+sub-035,j2,J2,Limbic,0.23590365827573043
+sub-035,j2,J2,Control,0.27560379433503307
+sub-035,j2,J2,Default,0.2216975787866761
+sub-035,j3,J3,Subcortical,0.11108672348111652
+sub-035,j3,J3,Visual,0.29342316261274504
+sub-035,j3,J3,Somato-Motor,0.30689323202584806
+sub-035,j3,J3,Dorsal Attention,0.3137003222869318
+sub-035,j3,J3,Salience/Ventral Attention,0.28037190380776933
+sub-035,j3,J3,Limbic,0.1080675549153441
+sub-035,j3,J3,Control,0.2982619383464286
+sub-035,j3,J3,Default,0.27535384324207995
+sub-035,j4,J4,Subcortical,0.22140316720149947
+sub-035,j4,J4,Visual,0.3156148192688148
+sub-035,j4,J4,Somato-Motor,0.34867725205035066
+sub-035,j4,J4,Dorsal Attention,0.3828626900067993
+sub-035,j4,J4,Salience/Ventral Attention,0.42836388337711007
+sub-035,j4,J4,Limbic,0.29517200326751203
+sub-035,j4,J4,Control,0.40204292385990803
+sub-035,j4,J4,Default,0.35248985038746183
+sub-035,j5,J5,Subcortical,0.1504917471032734
+sub-035,j5,J5,Visual,0.22032990302892128
+sub-035,j5,J5,Somato-Motor,0.30465783579498745
+sub-035,j5,J5,Dorsal Attention,0.2934753971650987
+sub-035,j5,J5,Salience/Ventral Attention,0.32129273753523774
+sub-035,j5,J5,Limbic,0.23075286043281554
+sub-035,j5,J5,Control,0.31084073602058876
+sub-035,j5,J5,Default,0.2721943864201569
+sub-035,j6,J6,Subcortical,0.10858971366897154
+sub-035,j6,J6,Visual,0.21816450942972795
+sub-035,j6,J6,Somato-Motor,0.22556951906086103
+sub-035,j6,J6,Dorsal Attention,0.21664505550764498
+sub-035,j6,J6,Salience/Ventral Attention,0.24990514177453152
+sub-035,j6,J6,Limbic,0.0921314765670605
+sub-035,j6,J6,Control,0.2351705516042005
+sub-035,j6,J6,Default,0.22606584016507847
+sub-035,j7,J7,Subcortical,0.18851060157377897
+sub-035,j7,J7,Visual,0.31880897637268707
+sub-035,j7,J7,Somato-Motor,0.33699880705495305
+sub-035,j7,J7,Dorsal Attention,0.3641201703880025
+sub-035,j7,J7,Salience/Ventral Attention,0.3880222640836756
+sub-035,j7,J7,Limbic,0.29358585974492174
+sub-035,j7,J7,Control,0.305267657686036
+sub-035,j7,J7,Default,0.3190116615990805
+sub-035,j8,J8,Subcortical,0.6570353833292231
+sub-035,j8,J8,Visual,0.7809669884130672
+sub-035,j8,J8,Somato-Motor,0.7888132408883984
+sub-035,j8,J8,Dorsal Attention,0.8136505000983097
+sub-035,j8,J8,Salience/Ventral Attention,0.7943592325791115
+sub-035,j8,J8,Limbic,0.702352064280989
+sub-035,j8,J8,Control,0.8248140431861656
+sub-035,j8,J8,Default,0.7872808802813286
